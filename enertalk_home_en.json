@@ -32,7 +32,7 @@
 	"INTRO_VALIDATION_PASSWORD_INVALID": "Invalid password",
 	"INTRO_VALIDATION_CODE_INVALID": "Invalid security code",
 	"INTRO_VALIDATION_CODE_EMPTY": "Please enter the security code.",
-	"INTRO_VALIDATION_CODE_CLICK": "Please tap the \"Confirm\" button.",
+	"INTRO_VALIDATION_CODE_CLICK": "Please tap the Confirm button.",
 	"INTRO_VALIDATION_CODE_EXPIRE": "Code has been expired. Please tap the \"Resend code\" button. ",
 	"INTRO_VALIDATION_CODE_WAIT": "Please try again in 3 minutes.",
 	"INTRO_VALIDATION_LOGIN_FAIL": "Your email or mobile number is not found. Please try again.",
