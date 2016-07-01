@@ -1,0 +1,50 @@
+{
+	"ko": {
+		"TEXT_TITLE": "최근 3개월 사용 추이",
+		"TEXT_MONTH_1": "1월",
+		"TEXT_MONTH_2": "2월",
+		"TEXT_MONTH_3": "3월",
+		"TEXT_MONTH_4": "4월",
+		"TEXT_MONTH_5": "5월",
+		"TEXT_MONTH_6": "6월",
+		"TEXT_MONTH_7": "7월",
+		"TEXT_MONTH_8": "8월",
+		"TEXT_MONTH_9": "9월",
+		"TEXT_MONTH_10": "10월",
+		"TEXT_MONTH_11": "11월",
+		"TEXT_MONTH_12": "12월",
+		"TEXT_POPUP": "최근 3개월간 데이터가 쌓여야 평균 수치를 보실 수 있습니다."
+	},
+	"en": {
+		"TEXT_TITLE": "Recent three month usages",
+		"TEXT_MONTH_1": "Jan",
+		"TEXT_MONTH_2": "Feb",
+		"TEXT_MONTH_3": "Mar",
+		"TEXT_MONTH_4": "Apr",
+		"TEXT_MONTH_5": "May",
+		"TEXT_MONTH_6": "Jun",
+		"TEXT_MONTH_7": "Jul",
+		"TEXT_MONTH_8": "Aug",
+		"TEXT_MONTH_9": "Sep",
+		"TEXT_MONTH_10": "Oct",
+		"TEXT_MONTH_11": "Nov",
+		"TEXT_MONTH_12": "Dec",
+		"TEXT_POPUP": "You can see this figure, after you use at least 3months"
+	},
+	"ja": {
+		"TEXT_TITLE": "最近 3 か月の使用推移",
+		"TEXT_MONTH_1": "1月",
+		"TEXT_MONTH_2": "2月",
+		"TEXT_MONTH_3": "3月",
+		"TEXT_MONTH_4": "4月",
+		"TEXT_MONTH_5": "5月",
+		"TEXT_MONTH_6": "6月",
+		"TEXT_MONTH_7": "7月",
+		"TEXT_MONTH_8": "8月",
+		"TEXT_MONTH_9": "9月",
+		"TEXT_MONTH_10": "10月",
+		"TEXT_MONTH_11": "11月",
+		"TEXT_MONTH_12": "12月",
+		"TEXT_POPUP": "最近3か月間のデータが溜まってから、平均値を見ることができます。"
+	}
+}

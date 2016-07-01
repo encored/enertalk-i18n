@@ -1,0 +1,53 @@
+{
+	"ko": {
+		"TEXT_TITLE": "우리 집 에너지 시계",
+		"TEXT_TODAY": "오늘",
+		"TEXT_DAY": "일",
+		"TEXT_MONTH_1": "1월",
+		"TEXT_MONTH_2": "2월",
+		"TEXT_MONTH_3": "3월",
+		"TEXT_MONTH_4": "4월",
+		"TEXT_MONTH_5": "5월",
+		"TEXT_MONTH_6": "6월",
+		"TEXT_MONTH_7": "7월",
+		"TEXT_MONTH_8": "8월",
+		"TEXT_MONTH_9": "9월",
+		"TEXT_MONTH_10": "10월",
+		"TEXT_MONTH_11": "11월",
+		"TEXT_MONTH_12": "12월"
+	},
+	"en": {
+		"TEXT_TITLE": "Energy Clock",
+		"TEXT_TODAY": "Today",
+		"TEXT_DAY": "th",
+		"TEXT_MONTH_1": "Jan",
+		"TEXT_MONTH_2": "Feb",
+		"TEXT_MONTH_3": "Mar",
+		"TEXT_MONTH_4": "Apr",
+		"TEXT_MONTH_5": "May",
+		"TEXT_MONTH_6": "Jun",
+		"TEXT_MONTH_7": "Jul",
+		"TEXT_MONTH_8": "Aug",
+		"TEXT_MONTH_9": "Sep",
+		"TEXT_MONTH_10": "Oct",
+		"TEXT_MONTH_11": "Nov",
+		"TEXT_MONTH_12": "Dec"
+	},
+	"ja": {
+		"TEXT_TITLE": "自宅のエネルギー時計",
+		"TEXT_TODAY": "今日",
+		"TEXT_DAY": "日",
+		"TEXT_MONTH_1": "1月",
+		"TEXT_MONTH_2": "2月",
+		"TEXT_MONTH_3": "3月",
+		"TEXT_MONTH_4": "4月",
+		"TEXT_MONTH_5": "5月",
+		"TEXT_MONTH_6": "6月",
+		"TEXT_MONTH_7": "7月",
+		"TEXT_MONTH_8": "8月",
+		"TEXT_MONTH_9": "9月",
+		"TEXT_MONTH_10": "10月",
+		"TEXT_MONTH_11": "11月",
+		"TEXT_MONTH_12": "12月"
+	}
+}
