@@ -263,6 +263,7 @@
 	"BILLING_INFO_POPUP_COMPLETE": "Your change has been saved successfuly.",
 	"COMPARISON_INFO_POPUP_COMPLETE": "Your change has been saved successfuly.",
 	"SOLAR_INFO_POPUP_COMPLETE": "태양광 보유 정보 변경을 완료했습니다.",
+	"SUPPLY_INFO_POPUP_COMPLETE": "냉난방 및 급탕 정보 변경을 완료했습니다.",
 	"SOLAR_INFO_LABEL_MAIN": "태양광을 사용하고 계신가요?",
 	"SOLAR_INFO_LABEL_SUB": "변경된 설정은 다음날 새벽에 반영됩니다.",
 	"SOLAR_INFO_OPTION_YES": "사용 중입니다",

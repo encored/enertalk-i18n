@@ -263,6 +263,7 @@
 	"BILLING_INFO_POPUP_COMPLETE": "料金計算情報の変更を完了しました。",
 	"COMPARISON_INFO_POPUP_COMPLETE": "類似世帯との比較情報を完了しました。",
 	"SOLAR_INFO_POPUP_COMPLETE": "太陽光発電保有情報の変更を完了しました。",
+	"SUPPLY_INFO_POPUP_COMPLETE": "냉난방 및 급탕 정보 변경을 완료했습니다.",
 	"SOLAR_INFO_LABEL_MAIN": "太陽光発電を使用していますか？",
 	"SOLAR_INFO_LABEL_SUB": "変更された設定は翌日以降に反映されます。",
 	"SOLAR_INFO_OPTION_YES": "あり",
