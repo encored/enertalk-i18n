@@ -696,6 +696,7 @@
 	"FAMILY_CARE_FORM_UNREGISTER_PHONE": "에너톡이 설치되지 않은 휴대폰 번호입니다.",
 	"FAMILY_CARE_FORM_INVALID_SELF": "본인의 에너톡은 신청이 불가능합니다",
 	"FAMILY_CARE_FORM_ALREADY_CONNECT": "이미 케어 중인 가족입니다. 확인 후 다시 신청해주세요.",
+	"FAMILY_CARE_FORM_INTERNAL_ERROR": "검색을 완료하지 못했습니다. 다시 시도해주세요.",
 	"FAMILY_CARE_BUTTON_INTRO": "가족 케어 신청하기",
 	"FAMILY_CARE_BUTTON_NEXT": "다음",
 	"FAMILY_CARE_BUTTON_SEARCH": "검색",

@@ -696,6 +696,7 @@
 	"FAMILY_CARE_FORM_UNREGISTER_PHONE": "エネトークが設置されていない携帯電話番号です。",
 	"FAMILY_CARE_FORM_INVALID_SELF": "本人のエネトークは申込ができません。",
 	"FAMILY_CARE_FORM_ALREADY_CONNECT": "すでに家族ケアされている家族です。確認後、再度お申し込みください。",
+	"FAMILY_CARE_FORM_INTERNAL_ERROR": "검색을 완료하지 못했습니다. 다시 시도해주세요.",
 	"FAMILY_CARE_BUTTON_INTRO": "家族ケア申込をする",
 	"FAMILY_CARE_BUTTON_NEXT": "次へ",
 	"FAMILY_CARE_BUTTON_SEARCH": "検索",
