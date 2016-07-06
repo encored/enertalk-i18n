@@ -47,13 +47,13 @@
 		"TEXT_NILM_TITLE_TODAY": "Please check today's Energy Clock.",
 		"TEXT_NILM_GUIDE_TODAY": "Please wait until tomorrow to see the list of appliances used by '{{displayName}}' today.",
 		"TEXT_NILM_TITLE_ERROR": "Failed to retreive the data.",
-		"TEXT_NILM_GUIDE_ERROR": "가전 기기 정보는 프리미엄 서비스에서 제공됩니다. 현재 '{{displayName}}'에서 프리미엄 서비스 이용 중이신가요?",
-		"TEXT_NILM_TITLE_ON": "이용하신 가전 목록이에요",
-		"TEXT_NILM_TITLE_OFF": "집을 비우셨나요?",
-		"TEXT_NILM_STATUS_LABEL_0": "상태 선택",
-		"TEXT_NILM_STATUS_LABEL_1": "집에 계셔",
-		"TEXT_NILM_STATUS_LABEL_2": "비어 있어",
-		"TEXT_NILM_STATUS_LABEL_3": "확인해 볼게"
+		"TEXT_NILM_GUIDE_ERROR": "Energy Guzzler informtion requires a premium service. Please upgrade to EnerTalk premium service to see appliance level usage information, '{{displayName}}'.",
+		"TEXT_NILM_TITLE_ON": "List of appliances in use",
+		"TEXT_NILM_TITLE_OFF": "Do you have anyone in your house?",
+		"TEXT_NILM_STATUS_LABEL_0": "Status",
+		"TEXT_NILM_STATUS_LABEL_1": "At home",
+		"TEXT_NILM_STATUS_LABEL_2": "Empty",
+		"TEXT_NILM_STATUS_LABEL_3": "Let me check"
 	},
 	"ja": {
 		"TEXT_TODAY": "今日",
