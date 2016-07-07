@@ -10,7 +10,7 @@
 		"TEXT_SITE_UNIT_USAGE": "누진세 {{step}}단계에 진입했습니다. 현 시점부터 기본요금이 {{defaultBill}}원, 1kWh당 {{unitBill}}원의 요금이 적용됩니다.",
 		"TEXT_GRADUATED_FEE_WARN": "현재 사용패턴을 지속하면 2일 내에 누진세 {{step}}단계에 진입합니다. 누진세 {{step}}단계 적용시 1kWh당 {{defaultBill}}원으로 현재보다 kWh당 {{extraBill}}원이 더 부과됩니다.",
 		"TEXT_NOTICE": "{{start}}에서 {{end}}까지 정기점검으로 인해 서비스가 잠시 중단됩니다. 이용에 불편을 드려 죄송합니다.",
-		"TEXT_MONTH_START": "{{year}}년 {{month}}월의 EnerTalk HOME이 시작됩니다.",
+		"TEXT_MONTH_START": "INTRO_VALIDATION_PHONE_CODE_FAIL",
 		"TEXT_METERING_DAY_NOTIFICATION": "이번 달 검침일이 {{remain}}일 남았습니다. 계획량을 달성했는지 확인해 보세요.",
 		"TEXT_UNDER_MAXIMUM_LIMIT_USAGE": "절약해주셔서 감사합니다. 이번 달 사용량이 계획량보다 적습니다.",
 		"TEXT_FORECAST_USAGE": "현재 사용 패턴을 유지할 경우 이번달 예상요금은 {{bill}}입니다.",
