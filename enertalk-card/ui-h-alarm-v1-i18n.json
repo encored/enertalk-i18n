@@ -2,7 +2,7 @@
 	"ko": {
 		"TEXT_UPDATE_LABEL": "실시간 업데이트",
 		"TEXT_UPDATE_DOING": "업데이트 중...",
-		"TEXT_GUIDE_POPUP": "EnerTalk에서 제공하는 유용한 정보들을 PUSH 알림으로 받아보시려면 [설정]에서 설정해주세요.",
+		"TEXT_GUIDE_POPUP": "EnerTalk에서 제공하는 유용한 정보들을 알림으로 받아보시려면 [설정 > Push 알림]을 켜주세요.",
 		"TEXT_INIT_USAGE": "EnerTalk HOME 가입을 축하합니다. 첫 검침일이 지나기 전까지는 설치 전 데이터가 반영되지 않으므로 실제 전기요금과 다소 차이가 있을 수 있습니다.",
 		"TEXT_MAXIMUM_LIMIT_USAGE_SOON": "이번 달 계획량이 곧 초과됩니다.",
 		"TEXT_MAXIMUM_LIMIT_USAGE_EXCEED": "계획량이 초과되었습니다.사용량 계획을 다시 세워 주세요.",
@@ -10,7 +10,7 @@
 		"TEXT_SITE_UNIT_USAGE": "누진세 {{step}}단계에 진입했습니다. 현 시점부터 기본요금이 {{defaultBill}}원, 1kWh당 {{unitBill}}원의 요금이 적용됩니다.",
 		"TEXT_GRADUATED_FEE_WARN": "현재 사용패턴을 지속하면 2일 내에 누진세 {{step}}단계에 진입합니다. 누진세 {{step}}단계 적용시 1kWh당 {{defaultBill}}원으로 현재보다 kWh당 {{extraBill}}원이 더 부과됩니다.",
 		"TEXT_NOTICE": "{{start}}에서 {{end}}까지 정기점검으로 인해 서비스가 잠시 중단됩니다. 이용에 불편을 드려 죄송합니다.",
-		"TEXT_MONTH_START": "INTRO_VALIDATION_PHONE_CODE_FAIL",
+		"TEXT_MONTH_START": "{{year}}년 {{month}}월의 EnerTalk HOME이 시작됩니다.",
 		"TEXT_METERING_DAY_NOTIFICATION": "이번 달 검침일이 {{remain}}일 남았습니다. 계획량을 달성했는지 확인해 보세요.",
 		"TEXT_UNDER_MAXIMUM_LIMIT_USAGE": "절약해주셔서 감사합니다. 이번 달 사용량이 계획량보다 적습니다.",
 		"TEXT_FORECAST_USAGE": "현재 사용 패턴을 유지할 경우 이번달 예상요금은 {{bill}}입니다.",
@@ -48,7 +48,7 @@
 		"TEXT_DEVICE_CONNECTION_LONGOFF": "[알림] 기기와 Wi-Fi의 연결이 끊겼습니다. 공유기를 확인해주세요. 오랜 시간 공유기가 꺼진 상태일 경우, 정상적인 서비스 제공이 불가능합니다.",
 		"TEXT_DEVICE_CONNECTION_UNSTABLE": "[알림] 기기와 Wi-Fi의 연결이 불안정합니다. 공유기를 항상 켜진 상태로 분전반에 가까이 놓아주세요! : )",
 		"TEXT_ANOMALY_DEVICE_USAGE": "[알림] 전기 사용 수치가 비정상적으로 수집되고 있습니다. 이는 분전반 내 전류측정센서(CT)의 문제일 수 있습니다. 문의가 필요하실 경우 고객센터로 연락주시기 바랍니다.",
-		"TEXT_METERING_START": "{{month}}의 ENERTALK HOME이 시작됩니다.",
+		"TEXT_METERING_START": "{{month}}의 EnerTalk HOME이 시작됩니다.",
 		"TEXT_METERING_GUIDE": "이번 달 검침일이 3일 남았습니다. 계획량을 달성했는지 확인해 보세요."
 	},
 	"en": {
