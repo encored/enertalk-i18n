@@ -21,11 +21,11 @@
 		"TEXT_NILM_TITLE_ERROR": "데이터를 불러오지 못했어요.",
 		"TEXT_NILM_GUIDE_ERROR": "가전 기기 정보는 프리미엄 서비스에서 제공됩니다. 현재 '{{displayName}}'에서 프리미엄 서비스 이용 중이신가요?",
 		"TEXT_NILM_TITLE_ON": "이용하신 가전 목록이에요",
-		"TEXT_NILM_TITLE_OFF": "집을 비우셨나요?",
-		"TEXT_NILM_STATUS_LABEL_0": "상태 선택",
-		"TEXT_NILM_STATUS_LABEL_1": "집에 계셔",
-		"TEXT_NILM_STATUS_LABEL_2": "비어 있어",
-		"TEXT_NILM_STATUS_LABEL_3": "확인해 볼게"
+		"TEXT_NILM_TITLE_OFF": "가족의 하루는 어땠나요?",
+		"TEXT_NILM_STATUS_LABEL_0": "상태 선택하기",
+		"TEXT_NILM_STATUS_LABEL_1": "잘 지냈어요",
+		"TEXT_NILM_STATUS_LABEL_2": "집을 비웠어요",
+		"TEXT_NILM_STATUS_LABEL_3": "글쎄?"
 	},
 	"en": {
 		"TEXT_TODAY": "Today",
