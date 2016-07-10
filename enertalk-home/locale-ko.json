@@ -799,6 +799,8 @@
 	"FAMILY_CARE_POPUP_CANCEL_CARE": "\"가족 케어하기\"를 신청 중입니다.\n신청을 취소하시겠습니까?",
 	"FAMILY_CARE_POPUP_CANCEL_SHARE": "\"가족에게 케어받기\"를 신청 중입니다.\n신청을 취소하시겠습니까?",
 	"FAMILY_CARE_POPUP_DISCONNECT": "가족 케어 연결을 취소하시겠습니까?",
+	"FAMILY_CARE_PUSH_APPROVAL": "{{recevier}}님이 가족 케어 요청을 수락했습니다.",
+	"FAMILY_CARE_PUSH_REJECT": "{{recevier}}님이 가족 케어 요청을 거절했습니다.",
 	"AE_LIST_TITLE": "가전 연비",
 	"AE_LIST_FOOTER_ADD": "가전추가",
 	"AE_ADD_TITLE": "가전 추가",

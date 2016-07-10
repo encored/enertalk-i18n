@@ -799,6 +799,8 @@
 	"FAMILY_CARE_POPUP_CANCEL_CARE": "Pending to \"Family care\"\nAre you sure you want to cancel the application ?\n",
 	"FAMILY_CARE_POPUP_CANCEL_SHARE": "Pending to \"Receive family care\"\nAre you sure you want to cancel the application ?\n",
 	"FAMILY_CARE_POPUP_DISCONNECT": "Do you want to quit the family care?\n",
+	"FAMILY_CARE_PUSH_APPROVAL": "{{recevier}}님이 가족 케어 요청을 수락했습니다.",
+	"FAMILY_CARE_PUSH_REJECT": "{{recevier}}님이 가족 케어 요청을 거절했습니다.",
 	"AE_LIST_TITLE": "Consumer electronics fuel consumption",
 	"AE_LIST_FOOTER_ADD": "Add consumer electronics\n",
 	"AE_ADD_TITLE": "Add consumer electronics\n",
