@@ -176,6 +176,7 @@
 	"SETTING_PLAN_LABEL_LAST": "先月",
 	"SETTING_PLAN_ERROR_MAX": "設定可能な最大量を超えました。",
 	"SETTING_PLAN_ERROR_MIN": "設定可能な最小量未満です。",
+	"SETTING_PLAN_ERROR_INTERNAL": "설정을 완료하지 못했습니다. 다시 시도해주세요.",
 	"SETTING_PLAN_TOAST_COMPLETE": "요금 계산 설정이 변경되었습니다.",
 	"SETTING_SUPPLY_DESC": "以下の項目の中、ご利用中の冷暖房および給湯方式を<span class=\"highlight\">すべて</span>選択してください。",
 	"SETTING_SUPPLY_TITLE_COOLING": "冷房方式",

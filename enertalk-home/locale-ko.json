@@ -176,6 +176,7 @@
 	"SETTING_PLAN_LABEL_LAST": "지난달",
 	"SETTING_PLAN_ERROR_MAX": "설정 가능한 최대 금액을 초과했습니다.",
 	"SETTING_PLAN_ERROR_MIN": "설정 가능한 최소 금액 미만입니다.",
+	"SETTING_PLAN_ERROR_INTERNAL": "설정을 완료하지 못했습니다. 다시 시도해주세요.",
 	"SETTING_PLAN_TOAST_COMPLETE": "요금 계산 설정이 변경되었습니다.",
 	"SETTING_SUPPLY_DESC": "아래 항목 중 사용 중인 냉난방 및 급탕 방식을 <span class=\"highlight\">모두</span> 선택해주세요.",
 	"SETTING_SUPPLY_TITLE_COOLING": "냉방 방식",
