@@ -73,7 +73,7 @@
 		"TEXT_NILM_TITLE_WAIT": "ようこそ。今から家族の安否を確認してください。",
 		"TEXT_NILM_GUIDE_WAIT": "{{displayName}}で使用した家電のリストを{{remainDay}}日後から確認することができますよ。",
 		"TEXT_NILM_TITLE_TODAY": "今日のエネルギー時計を確認してください。",
-		"TEXT_NILM_GUIDE_TODAY": "今日'{{displayName}}'でご利用した家電リストは明日確認することができます。",
+		"TEXT_NILM_GUIDE_TODAY": "今日ご利用した家電リストは明日以降確認することができます。",
 		"TEXT_NILM_TITLE_ERROR": "データを読み込めませんでした。",
 		"TEXT_NILM_GUIDE_ERROR": "家電機器の情報は、プレミアムサービスで提供されます。現在{{displayName}}でプレミアムサービス利用いただいていますか？",
 		"TEXT_NILM_TITLE_ON": "ご利用の家電リストです",

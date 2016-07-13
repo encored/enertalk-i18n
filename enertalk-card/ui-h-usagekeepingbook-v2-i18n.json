@@ -71,7 +71,7 @@
 		"TEXT_WEEK": "Day of Week",
 		"TEXT_WEEKDAY": "Weekday",
 		"TEXT_WEEKEND": "Weekend",
-		"TEXT_BILL_JP": "Rate Plan",
+		"TEXT_BILL_JP": "* 料金計算基準：東京電力従量電灯B",
 		"TEXT_CURRENT_TIER": "At {{tier}}",
 		"TEXT_NEXT_TIER_DAY": "Expected to reach at {{nextTier}} after {{remain}} days",
 		"TEXT_NEXT_TIER_HOUR": "Expected to reach at {{nextTier}} after {{remain}} hours",
