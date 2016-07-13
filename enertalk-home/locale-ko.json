@@ -898,7 +898,7 @@
 	"DASHBOARD_THIS_MONTH_COMPARE": "지난달보다 <span class=\"{{className}}\"><i></i>{{bill}}원</span>",
 	"DASHBOARD_THIS_MONTH_CURRENT": "현재 요금",
 	"DASHBOARD_COMPARISON_TITLE": "이웃 비교",
-	"DASHBOARD_COMPARISON_LEVEL_0": "이웃 비교",
+	"DASHBOARD_COMPARISON_LEVEL_0": "분석 중입니다.",
 	"DASHBOARD_COMPARISON_LEVEL_1": "최고에요 : )",
 	"DASHBOARD_COMPARISON_LEVEL_2": "훌륭해요 : )",
 	"DASHBOARD_COMPARISON_LEVEL_3": "오늘부터 절약!",

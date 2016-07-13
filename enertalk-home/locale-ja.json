@@ -898,7 +898,7 @@
 	"DASHBOARD_THIS_MONTH_COMPARE": "先月より <span class=\"{{className}}\"><i></i>{{bill}}円</span>",
 	"DASHBOARD_THIS_MONTH_CURRENT": "現在料金",
 	"DASHBOARD_COMPARISON_TITLE": "類似世帯比較",
-	"DASHBOARD_COMPARISON_LEVEL_0": "類似世帯比較",
+	"DASHBOARD_COMPARISON_LEVEL_0": "분석 중입니다.",
 	"DASHBOARD_COMPARISON_LEVEL_1": "最高です : )",
 	"DASHBOARD_COMPARISON_LEVEL_2": "すばらしいです : )",
 	"DASHBOARD_COMPARISON_LEVEL_3": "今日から節約!",
