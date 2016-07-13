@@ -67,6 +67,7 @@
 	"INTRO_TEXT_AGREE_EMAIL": "I agree to receive emails.",
 	"INTRO_TEXT_AGREE_PHONE": "I agree to receive text messages.",
 	"INTRO_TEXT_REMAIN_TIME": "{{minutes}}m {{seconds}}s",
+	"INTRO_TEXT_EMAIL_GUIDE": "\"수신 거부 설정\"과 \"스푸핑 규제 설정\"등으로 메일을 수신 할 수없는 경우가 있습니다. \"contact@encoredtech.com\"혹은 도메인 \"encoredtech.com\"수신 허용 설정을합니다.",
 	"INTRO_POPUP_LOGIN_FAIL": "Log In Failed",
 	"INTRO_POPUP_LOGIN_FAIL_DESC": "Invalid user ID or password",
 	"INTRO_POPUP_LOGIN_FAIL_DESC2": "Login failed.<br>Redirecting to home screen.",
