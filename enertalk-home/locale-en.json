@@ -821,6 +821,7 @@
 	"AE_DETAIL_EFFICIENCY_MONTHLY_USE_OF_THIS_MONTH": "Usage of the month",
 	"AE_DETAIL_EFFICIENCY_MONTHLY_EXPECTED_USE_OF_THIS_MONTH": "Expectation of the month",
 	"AE_DETAIL_CHART_DAILY_CHART_TITLE": "One day usage",
+	"AE_DETAIL_CHART_MONTHLY_CHART_TITLE": "월간 이용 현황",
 	"AE_DETAIL_CHART_CLOCK_GUIDE": "When we used out of the day?",
 	"AE_DETAIL_FOOTER_BUTTON": "Power consumption measurement",
 	"AE_DETAIL_FOOTER_DELETE": "Delete Equipment",
