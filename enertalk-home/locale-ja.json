@@ -404,6 +404,8 @@
 	"INSTALL_TEXT_LOCATION_GUIDE_SMALL": "位置情報はサービスの提供以外の目的には<br>ご利用されません。",
 	"INSTALL_TEXT_LOCATION_ERROR": "位置情報の確認中に問題が発生しました。<br>もう一度お試してください。",
 	"INSTALL_TEXT_LOCATION_RETRY": "位置情報収集に同意後、もう一度試してください。",
+	"INSTALL_TEXT_LOCATION_MANUAL_TITLE": "手動で国を選択する",
+	"INSTALL_TEXT_LOCATION_MANUAL_DESC": "現在位置している国を選択してください。",
 	"INSTALL_DIALOG_LOCATION_TITLE": "位置情報収集に同意",
 	"INSTALL_DIALOG_LOCATION_DESC": "エネトークが位置情報を収集しようとします。",
 	"INSTALL_BUTTON_FIND_IOS": "WiーFiルータを検索しています。",

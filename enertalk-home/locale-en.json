@@ -404,6 +404,8 @@
 	"INSTALL_TEXT_LOCATION_GUIDE_SMALL": "Position information is not <br> available for any purpose other than the provision of services.",
 	"INSTALL_TEXT_LOCATION_ERROR": "There was a problem during the confirmation of the position information . <br>, please try again.",
 	"INSTALL_TEXT_LOCATION_RETRY": "Please try again. After agree with the location information collection.",
+	"INSTALL_TEXT_LOCATION_MANUAL_TITLE": "Manually select country",
+	"INSTALL_TEXT_LOCATION_MANUAL_DESC": "Please select the country you are currently located.",
 	"INSTALL_DIALOG_LOCATION_TITLE": "Agree to the position information collection",
 	"INSTALL_DIALOG_LOCATION_DESC": "EnerTalk will try to collect the location information.",
 	"INSTALL_BUTTON_FIND_IOS": "Searching for Wi-Fi",
