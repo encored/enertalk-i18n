@@ -121,7 +121,7 @@
 		"TEXT_WEEKDAY": "平日",
 		"TEXT_WEEKEND": "週末",
 		"TEXT_BILL_JP": "* 料金計算基準：東京電力従量電灯B(30A)",
-		"TEXT_CURRENT_TIER": "{{tier}}단계",
+		"TEXT_CURRENT_TIER": "{{tier}}段階",
 		"TEXT_CURRENT_STEP": "{{step}}00kWh",
 		"TEXT_NEXT_TIER_DAY": "{{remain}}日 後{{nextTier}}段階進入 予定",
 		"TEXT_NEXT_TIER_HOUR": "{{remain}}時間 後 {{nextTier}}段階進入 予定",
