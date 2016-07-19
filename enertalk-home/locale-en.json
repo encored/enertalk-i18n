@@ -409,6 +409,7 @@
 	"INSTALL_TEXT_COUNTRY_KR": "South Korea",
 	"INSTALL_TEXT_COUNTRY_US": "United States",
 	"INSTALL_TEXT_COUNTRY_JP": "Japan",
+	"INSTALL_TEXT_AP_SIZE_EXCESS": "공유기 이름과 패스워드 길이의 합을 36자 이하로 설정해주세요.",
 	"INSTALL_DIALOG_LOCATION_TITLE": "Agree to the position information collection",
 	"INSTALL_DIALOG_LOCATION_DESC": "EnerTalk will try to collect the location information.",
 	"INSTALL_BUTTON_FIND_IOS": "Searching for Wi-Fi",
@@ -1010,5 +1011,5 @@
 	"ECO_PUZZLE_QUEST_TITLE": "퀘스트",
 	"ECO_PUZZLE_PROMISE_TITLE": "약속",
 	"ECO_PUZZLE_PARTICIPANTS_TITLE": "참여 가족 수",
-	"ECO_PUZZLE_PARTICIPANTS_COUNT": "{{count}} 가구"
+	"ECO_PUZZLE_PARTICIPANTS_COUNT": "가구"
 }

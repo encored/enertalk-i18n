@@ -409,6 +409,7 @@
 	"INSTALL_TEXT_COUNTRY_KR": "대한민국",
 	"INSTALL_TEXT_COUNTRY_US": "미국",
 	"INSTALL_TEXT_COUNTRY_JP": "일본",
+	"INSTALL_TEXT_AP_SIZE_EXCESS": "공유기 이름과 패스워드 길이의 합을 36자 이하로 설정해주세요.",
 	"INSTALL_DIALOG_LOCATION_TITLE": "위치정보 수집 동의",
 	"INSTALL_DIALOG_LOCATION_DESC": "에너톡'에서 현재 위치 정보를 수집하고자 합니다.",
 	"INSTALL_BUTTON_FIND_IOS": "우리집 Wi-Fi 공유기 찾기",
@@ -1010,5 +1011,5 @@
 	"ECO_PUZZLE_QUEST_TITLE": "퀘스트",
 	"ECO_PUZZLE_PROMISE_TITLE": "약속",
 	"ECO_PUZZLE_PARTICIPANTS_TITLE": "참여 가족 수",
-	"ECO_PUZZLE_PARTICIPANTS_COUNT": "{{count}} 가구"
+	"ECO_PUZZLE_PARTICIPANTS_COUNT": "가구"
 }
