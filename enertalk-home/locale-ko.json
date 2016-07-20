@@ -819,6 +819,7 @@
 	"AE_MEASURE_LIST_TITLE": "측정 목록",
 	"AE_LIST_GUIDE": "우리집 가전 전기요금 얼마나 나오는지 직접 확인해 보세요.",
 	"AE_LIST_NOW_MEASURING": "측정중",
+	"AE_LIST_PLEASE_MEASURE": "측정해 주세요.",
 	"AE_DETAIL_EFFICIENCY_NEED_MEASURE": "가전 연비 계산을 위하여 소비 전력을 측정하세요.",
 	"AE_DETAIL_EFFICIENCY_ME": "우리집",
 	"AE_DETAIL_EFFICIENCY_NEIGHBOR": "이웃집",
