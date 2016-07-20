@@ -819,6 +819,7 @@
 	"AE_MEASURE_LIST_TITLE": "測定リスト",
 	"AE_LIST_GUIDE": "我が家の家電製品の電気料金はいくらかな？確認してみましょう。",
 	"AE_LIST_NOW_MEASURING": "測定中",
+	"AE_LIST_PLEASE_MEASURE": "측정해 주세요.",
 	"AE_DETAIL_EFFICIENCY_NEED_MEASURE": "家電燃費計算のために、消費電力を測定してください。",
 	"AE_DETAIL_EFFICIENCY_ME": "我が家",
 	"AE_DETAIL_EFFICIENCY_NEIGHBOR": "ユーザ平均",
