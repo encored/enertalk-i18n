@@ -1019,5 +1019,11 @@
 	"ECO_PUZZLE_YEARLY_SUMMARY_PUZZLE_COUNT": "모은 퍼즐",
 	"ECO_PUZZLE_YEARLY_SUMMARY_REDUCED_CO2": "줄인 탄소량",
 	"ECO_PUZZLE_YEARLY_SUMMARY_SAVING_MONEY": "요금 절약 효과",
-	"ECO_PUZZLE_ECO_IDEA": "에코 아이디어"
+	"ECO_PUZZLE_ECO_IDEA": "에코 아이디어",
+	"ECO_PUZZLE_IDEA_INFO": "에코 퍼즐은 오늘 하루의 작은 행동들이 모여 우리 집, 우리 동네, 나아가 우리 지구 환경을 살릴 수 있는 공간입니다. 아직은 부족한 에코 퍼즐에 여러분의 신선한 아이디어를 보내주세요.",
+	"ECO_PUZZLE_IDEA_QUESTION_1": "하나, 퍼즐을 모으기 위해 내가 할 수 있는 행동은?",
+	"ECO_PUZZLE_IDEA_QUESTION_1_PLACE_HOLDER": "예) 하루에 3번 에너톡 방문하기, TV를 끄고 독서하기 등",
+	"ECO_PUZZLE_IDEA_QUESTION_2": "둘, 모은 퍼즐과 줄인 탄소로 할 수 있는 일은?",
+	"ECO_PUZZLE_IDEA_QUESTION_2_PLACE_HOLDER": "예) 우리 동네에 나무를 심어 주세요! 에코 퍼즐이 새겨진 에코백을 필요한 곳에 기부해주세요! 등",
+	"ECO_PUZZLE_IDEA_SEND": "아이디어 보내기"
 }
