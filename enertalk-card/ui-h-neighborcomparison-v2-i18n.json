@@ -56,7 +56,7 @@
 		"TEXT_COMPARISON_LEVEL_3": "Average",
 		"TEXT_COMPARISON_LEVEL_4": "More than Avg.",
 		"TEXT_COMPARISON_LEVEL_5": "Try to reduce",
-		"TEXT_COMPARISON_PREFIX": "compared to similar neighbors",
+		"TEXT_COMPARISON_PREFIX": "",
 		"TEXT_COMPARISON_MORE_CURRENT": "using more than neighbors",
 		"TEXT_COMPARISON_LESS_CURRENT": "using less than neighbors",
 		"TEXT_COMPARISON_MORE": "used more than neighbors",
