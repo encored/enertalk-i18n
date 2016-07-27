@@ -18,7 +18,7 @@
 		"TEXT_NEIGHBOR_COMPARISON_EQUAL": "이번 달 이웃대비 평균 사용량이 같습니다.",
 		"TEXT_NEIGHBOR_COMPARISON_HIGH": "이번 달 평균 사용량이 이웃보다 {{rate}}%나 높게 나왔어요.",
 		"TEXT_HIGH_BASE_POWER": "시간당 대기전력량이 다소 높습니다. 사용하지 않는 가전제품 플러그는 뽑아주세요.",
-		"TEXT_NO_MESSAGE": "이번달 알림이 현재까지 존재하지 않습니다.",
+		"TEXT_NO_MESSAGE": "이번 달 알림이 현재까지 존재하지 않습니다.",
 		"TEXT_YEAR": "년",
 		"TEXT_MONTH_1": "1월",
 		"TEXT_MONTH_2": "2월",
