@@ -9,7 +9,7 @@
 		"TEXT_SITE_UNIT_USAGE": "누진세 {{step}}단계에 진입했습니다. 현 시점부터 기본요금이 {{defaultBill}}원, 1kWh당 {{unitBill}}원의 요금이 적용됩니다.",
 		"TEXT_GRADUATED_FEE_WARN": "현재 사용패턴을 지속하면 2일 내에 누진세 {{step}}단계에 진입합니다. 누진세 {{step}}단계 적용시 1kWh당 {{defaultBill}}원으로 현재보다 kWh당 {{extraBill}}원이 더 부과됩니다.",
 		"TEXT_NOTICE": "{{start}}에서 {{end}}까지 정기점검으로 인해 서비스가 잠시 중단됩니다. 이용에 불편을 드려 죄송합니다.",
-		"TEXT_MONTH_START": "{{year}}년 {{month}}월의 EnerTalk HOME이 시작됩니다.",
+		"TEXT_MONTH_START": "오늘부터 새로운 검침 기간이 시작됩니다. 에너지 가계부에서 지난달 이용 내역을 확인해보세요.",
 		"TEXT_METERING_DAY_NOTIFICATION": "이번 달 검침일이 {{remain}}일 남았습니다. 계획량을 달성했는지 확인해 보세요.",
 		"TEXT_UNDER_MAXIMUM_LIMIT_USAGE": "절약해주셔서 감사합니다. 이번 달 사용량이 계획량보다 적습니다.",
 		"TEXT_FORECAST_USAGE": "현재 사용 패턴을 유지할 경우 이번달 예상요금은 {{bill}}입니다.",
@@ -47,7 +47,7 @@
 		"TEXT_DEVICE_CONNECTION_LONGOFF": "[알림] 기기와 Wi-Fi의 연결이 끊겼습니다. 공유기를 확인해주세요. 오랜 시간 공유기가 꺼진 상태일 경우, 정상적인 서비스 제공이 불가능합니다.",
 		"TEXT_DEVICE_CONNECTION_UNSTABLE": "[알림] 기기와 Wi-Fi의 연결이 불안정합니다. 공유기를 항상 켜진 상태로 분전반에 가까이 놓아주세요! : )",
 		"TEXT_ANOMALY_DEVICE_USAGE": "[알림] 전기 사용 수치가 비정상적으로 수집되고 있습니다. 이는 분전반 내 전류측정센서(CT)의 문제일 수 있습니다. 문의가 필요하실 경우 고객센터로 연락주시기 바랍니다.",
-		"TEXT_METERING_START": "{{month}}의 EnerTalk HOME이 시작됩니다.",
+		"TEXT_METERING_START": "오늘부터 새로운 검침 기간이 시작됩니다. 에너지 가계부에서 지난달 이용 내역을 확인해보세요.",
 		"TEXT_METERING_GUIDE": "이번 달 검침일이 3일 남았습니다. 계획량을 달성했는지 확인해 보세요."
 	},
 	"en": {
@@ -60,7 +60,7 @@
 		"TEXT_SITE_UNIT_USAGE": "Your electric rate just entered Tier {{step}}. The price of the energy will increase to {{unitBill}} Won per 1 kWh.",
 		"TEXT_GRADUATED_FEE_WARN": "Your electric rate will reach {{step}} in 2 days. The price of the energy will increase to {{dafaultBill}} Won per 1 kWh, {{extraBill}} more expensive.",
 		"TEXT_NOTICE": "Service not available due to routine maintenance from {{start}} to {{end}}. We apologize for any inconvenience.",
-		"TEXT_MONTH_START": "New billing cycle of {{month}}.{{year}} started.",
+		"TEXT_MONTH_START": "New metering period has started today. Don't forget to check out the energy report for last month.",
 		"TEXT_METERING_DAY_NOTIFICATION": "{{remain}} days left until next billing cycle. Check your energy usage status.",
 		"TEXT_UNDER_MAXIMUM_LIMIT_USAGE": "Congraturations on your energy savings! You spent less energy than your goal.",
 		"TEXT_FORECAST_USAGE": "If you keep the current usage pattern, the estimated rate will be {{bill}}.",
@@ -98,7 +98,7 @@
 		"TEXT_DEVICE_CONNECTION_LONGOFF": "[Notification] The device is disconnected from the Wi-Fi. Please check your router. For the best service, stable Wi-Fi connection is necessary.",
 		"TEXT_DEVICE_CONNECTION_UNSTABLE": "[Notification] The device's connection to the Wi-Fi is unstable. Please always keep your router on and place it close to the electric panel.",
 		"TEXT_ANOMALY_DEVICE_USAGE": "[Notification] Your usage data collection seems unusual. This could be a CT sensors' problem. Please contact Customer Support if you have any questions.",
-		"TEXT_METERING_START": "EnerTalk HOME for {{month}} has just started.",
+		"TEXT_METERING_START": "New metering period has started today. Don't forget to check out the energy report for last month.",
 		"TEXT_METERING_GUIDE": "3 days left until next billing cycle. Check your energy usage status."
 	},
 	"ja": {
@@ -111,7 +111,7 @@
 		"TEXT_SITE_UNIT_USAGE": "料金段階が、{{step}}段階に入りました。１kWhあたり{{unitBill}}ウォンの料金が適用されます。",
 		"TEXT_GRADUATED_FEE_WARN": "現在の使用パターンが続く場合、２日以内に{{step}}段階に入ります。段階適用時は、１kWhあたり、{{defaultBill}}ウォンとなり、現在より１kWhあたり{{extraBill}}ウォンが多く請求されます。",
 		"TEXT_NOTICE": "{{start}}から{{end}}まで定期点検のため、サービスが一時停止されます。利用にご不便をおかけしまして、申し訳ございません。",
-		"TEXT_MONTH_START": "{{year}}年{{month}}月のエネトークホームのサービスがスタートします。",
+		"TEXT_MONTH_START": "今日から今月の検針期間が開始されます。エネルギー家計簿で先月の利用履歴を確認してください。",
 		"TEXT_METERING_DAY_NOTIFICATION": "今月の検針日まで後{{remain}}日です。計画量を達成したか確認してください。",
 		"TEXT_UNDER_MAXIMUM_LIMIT_USAGE": "今月の使用電力量は計画目標よりも低くなりました。しっかりと節電ができました。",
 		"TEXT_FORECAST_USAGE": "現在の使用パターンを継続する場合、今月の予想料金は{{bill}}です。",
@@ -149,7 +149,7 @@
 		"TEXT_DEVICE_CONNECTION_LONGOFF": "機器のWi-Fiの接続が切断されました。Wi-Fiルータを確認してください。Wi-Fiが切断されたままでは、正常なサービスができません。",
 		"TEXT_DEVICE_CONNECTION_UNSTABLE": "Wi-Fiの電波が不安定です。Wi-Fiルータを機器が取り付けられた分電盤の近くに移動してください。",
 		"TEXT_ANOMALY_DEVICE_USAGE": "電流が正しく計測できません。分電盤中に取り付けられた電流測定センサー(CT)のトラブルの可能性があります。",
-		"TEXT_METERING_START": "{{month}}のエネトークホームのサービスがスタートします。",
+		"TEXT_METERING_START": "今日から今月の検針期間が開始されます。エネルギー家計簿で先月の利用履歴を確認してください。",
 		"TEXT_METERING_GUIDE": "今月の検針日の3日前です。計画量を達成したか確認してみてください。"
 	}
 }
