@@ -926,6 +926,8 @@
 	"DASHBOARD_AIRCON_NORMAL": "똑똑하게 이용하기",
 	"DASHBOARD_ECO_PUZZLE_TITLE": "에코 퍼즐",
 	"DASHBOARD_ECO_PUZZLE_PROGRESS": "{{percent}}% 완성",
+	"DASHBOARD_LABS_TITLE": "실험실",
+	"DASHBOARD_LABS_DESC": "Coming Soon",
 	"ECO_PUZZLE_MAIN_TITLE": "에코 퍼즐",
 	"ECO_PUZZLE_IDEA_TITLE": "에코 아이디어",
 	"ECO_PUZZLE_PIECES": "조각",
