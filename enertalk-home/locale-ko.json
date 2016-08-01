@@ -1115,5 +1115,10 @@
 	"ECO_PUZZLE_IDEA_QUESTION_2": "둘, 모은 퍼즐과 줄인 탄소로 할 수 있는 일은?",
 	"ECO_PUZZLE_IDEA_QUESTION_2_PLACE_HOLDER": "예) 우리 동네에 나무를 심어 주세요! 에코 퍼즐이 새겨진 에코백을 필요한 곳에 기부해주세요! 등",
 	"ECO_PUZZLE_IDEA_SEND": "아이디어 보내기",
-	"ECO_PUZZLE_IDEA_THANK": "아이디어 주셔서 감사합니다."
+	"ECO_PUZZLE_IDEA_THANK": "아이디어 주셔서 감사합니다.",
+	"MODAL_OFFLINE_TITLE": "네트워크가 연결되지 않은 상태입니다.",
+	"MODAL_OFFLINE_INFO_TITLE": "다음 3가지 사항을 시도해주세요.",
+	"MODAL_OFFLINE_INFO_1": "비행기 탑승 모드 체크 해제",
+	"MODAL_OFFLINE_INFO_2": "모바일 데이터 또는 Wi-Fi 설정",
+	"MODAL_OFFLINE_INFO_3": "현재 지역의 신호 확인"
 }
