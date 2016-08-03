@@ -1,0 +1,20 @@
+{
+	"ko": {
+		"TEXT_REALTIME": "실시간",
+		"TEXT_MIN": "최저",
+		"TEXT_NOW": "현재",
+		"TEXT_AVERAGE": "평균"
+	},
+	"en": {
+		"TEXT_REALTIME": "Realtime",
+		"TEXT_MIN": "Min",
+		"TEXT_NOW": "Now",
+		"TEXT_AVERAGE": "Avg."
+	},
+	"ja": {
+		"TEXT_REALTIME": "リアルタイム",
+		"TEXT_MIN": "最低",
+		"TEXT_NOW": "現在",
+		"TEXT_AVERAGE": "平均"
+	}
+}
