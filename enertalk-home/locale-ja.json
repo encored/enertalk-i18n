@@ -1120,5 +1120,8 @@
 	"MODAL_OFFLINE_INFO_TITLE": "次をお試しください:",
 	"MODAL_OFFLINE_INFO_1": "機内モードをオフにする",
 	"MODAL_OFFLINE_INFO_2": "モバイルデータまたは Wi-Fi を有効にする",
-	"MODAL_OFFLINE_INFO_3": "電波状況を確認する"
+	"MODAL_OFFLINE_INFO_3": "電波状況を確認する",
+	"MODAL_FIRMWARE_TITLE": "機器ファームウェア更新中",
+	"MODAL_FIRMWARE_INFO": "約10分かかり、\\n\nこの現象が続けば、カスタマーサービスまでお問い合わせください。",
+	"MODAL_FIRMWARE_GO_QUESTION": "1:1お問い合わせ"
 }
