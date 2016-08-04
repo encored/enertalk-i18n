@@ -70,7 +70,6 @@
 	"INTRO_LOADER_PAGE": "Loading ...",
 	"INTRO_TEXT_FORGOT_TITLE": "Reset password",
 	"INTRO_TEXT_FORGOT_EMAIL_SEND": "<p>Security code is sent to {{target}}.<br>Please enter the security code or tap the [<string>Confirm</strong>] button in your email.</p>",
-	"INTRO_TEXT_FORGOT_PHONE_SEND": "<p>Security code was sent to {{target}}.<br>Please enter the security code below.</p>",
 	"INTRO_TEXT_FORGOT_PASSWORD_RESET": "Password has been changed.",
 	"INTRO_TEXT_CONSENT1": "By signing up, you agree to our",
 	"INTRO_TEXT_CONSENT2": "",
