@@ -70,7 +70,6 @@
 	"INTRO_LOADER_PAGE": "페이지 로딩 중입니다..",
 	"INTRO_TEXT_FORGOT_TITLE": "비밀번호 재설정",
 	"INTRO_TEXT_FORGOT_EMAIL_SEND": "<p>{{target}}으로 재설정 메일을 전송하였습니다.<br>이메일에 있는 [이메일 인증] 버튼을 눌러 비밀번호를 재설정하세요.<br>해당 이메일에 재설정 메일이 보이지 않는다면 스팸 메일함, 광고 메일함, 정크 메일함 등 메일이 있을만한 다른 곳을 확인해주세요.</p>",
-	"INTRO_TEXT_FORGOT_PHONE_SEND": "<p>{{target}}(으)로 재설정 SMS를 전송하였습니다.<br>인증번호를 받으시면 아래에 인증번호를 입력하여 비밀번호를 재설정하세요.</p>",
 	"INTRO_TEXT_FORGOT_PASSWORD_RESET": "비밀번호 재설정을 완료했습니다.",
 	"INTRO_TEXT_CONSENT1": "가입 완료와 동시에",
 	"INTRO_TEXT_CONSENT2": "에 동의하는 것으로 간주합니다.",

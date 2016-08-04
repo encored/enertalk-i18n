@@ -70,7 +70,6 @@
 	"INTRO_LOADER_PAGE": "ページを読込みしています...",
 	"INTRO_TEXT_FORGOT_TITLE": "パスワードの再設定",
 	"INTRO_TEXT_FORGOT_EMAIL_SEND": "<p>{{target}}に再設定メールを送信しました。<br>メールの中の[メール認証]ボタンを押し、パスワードを再設定してください。<br>再設定メールが見つからない場合は、迷惑メールフォルダや広告メールフォルダなどを確認してください。</p>",
-	"INTRO_TEXT_FORGOT_PHONE_SEND": "<p>{{target}}に再設定認証番号をショートメッセージサービスで送信しました。<br>認証番号が届きましたら、認証番号を入力し、パスワードを再設定してください。</p>",
 	"INTRO_TEXT_FORGOT_PASSWORD_RESET": "パスワードの再設定が完了しました。",
 	"INTRO_TEXT_CONSENT1": "登録完了前に、利用規約への同意をお願いします。",
 	"INTRO_TEXT_CONSENT2": "に同意するものとします。",
