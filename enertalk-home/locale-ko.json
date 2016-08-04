@@ -318,6 +318,7 @@
 	"SOLAR_POPUP_SAVE_TITLE": "태양광 보유 설정",
 	"SOLAR_POPUP_SAVE_DESC_ON": "\"태양광을 사용 중입니다.\"로\n태양광 보유 설정을 저장하시겠습니까?",
 	"SOLAR_POPUP_SAVE_DESC_OFF": "\"태양광이 없습니다.\"로\n태양광 보유 설정을 저장하시겠습니까?",
+	"INSTALL_TEXT_WELCOME_TITLE": "WELCOME",
 	"INSTALL_TEXT_GUIDE_TITLE_IOS": "EnerTalk 이용을 위해서는 아래와 같이 기기와 우리 집 Wi-Fi 연결이 필요합니다.",
 	"INSTALL_TEXT_GUIDE_STEP1_TITLE_IOS": "1단계",
 	"INSTALL_TEXT_GUIDE_STEP1_IOS": "아이폰의 <strong>[설정 > Wi-Fi]</strong>에서 <strong>\"enertag3_시리얼 넘버 끝 두 자리\"</strong>를 찾아 연결하고 앱으로 돌아와 주세요.",

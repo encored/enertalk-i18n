@@ -318,6 +318,7 @@
 	"SOLAR_POPUP_SAVE_TITLE": "太陽光発電有無設定",
 	"SOLAR_POPUP_SAVE_DESC_ON": "\"太陽光発電あり\"に\n設定内容を保存しますか?",
 	"SOLAR_POPUP_SAVE_DESC_OFF": "\"太陽光発電なし\"に\n設定内容を保存しますか?",
+	"INSTALL_TEXT_WELCOME_TITLE": "WELCOME",
 	"INSTALL_TEXT_GUIDE_TITLE_IOS": "エネトーク利用のためには下記のように機器とご自宅のWi-Fi接続が必要です。",
 	"INSTALL_TEXT_GUIDE_STEP1_TITLE_IOS": "ステップ１",
 	"INSTALL_TEXT_GUIDE_STEP1_IOS": "iPhoneの<strong>[設定> Wi-Fi]</strong>で<strong>\"enertalk_シリアルナンバーの下2桁\"</strong>を探して接続し、APPに戻ってください。",
