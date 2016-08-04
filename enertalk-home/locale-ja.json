@@ -72,7 +72,7 @@
 	"INTRO_POPUP_LOGIN_FAIL_DESC": "ユーザ名またはパスワードが一致していません。",
 	"INTRO_POPUP_LOGIN_FAIL_DESC2": "ログインに失敗しました。<br>初期画面に移動します。",
 	"INTRO_POPUP_NETWORK": "ネットワーク接続",
-	"INTRO_POPUP_NETWORK_OFFLINE": "ネットワーク接続が不安定です。インターネットに接続できるネットワークで設定してください。(\"機器_シリアルナンバーの下2桁\"はインターネット接続ができないWi-Fiです。",
+	"INTRO_POPUP_NETWORK_OFFLINE": "ネットワーク接続が不安定です。インターネットに接続できるネットワークで設定してください。\"機器_シリアルナンバーの下2桁\"はインターネット接続ができないWi-Fiです。",
 	"INTRO_POPUP_TOKEN_EXPIRE": "トークンの有効期限切れ",
 	"INTRO_POPUP_TOKEN_EXPIRE_DESC": "トークンの再発行が必要です。ログインまたはサードパーティアプリの連動を進めてください。",
 	"INTRO_POPUP_TOKEN_REFRESH": "トークン更新",
@@ -938,6 +938,9 @@
 	"DASHBOARD_ECO_PUZZLE_PROGRESS": "{{percent}}% 完成",
 	"DASHBOARD_LABS_TITLE": "研究室",
 	"DASHBOARD_LABS_DESC": "準備中",
+	"DASHBOARD_TIPS_TITLE": "使い方をチェック",
+	"DASHBOARD_TIPS_DESC": "",
+	"DASHBOARD_MISSION_TITLE": "エネルギーミッション",
 	"ECO_PUZZLE_MAIN_TITLE": "エコパズル",
 	"ECO_PUZZLE_IDEA_TITLE": "エコアイディア",
 	"ECO_PUZZLE_PIECES": "ピース",
@@ -1123,5 +1126,7 @@
 	"MODAL_OFFLINE_INFO_3": "電波状況を確認する",
 	"MODAL_FIRMWARE_TITLE": "機器ファームウェア更新中",
 	"MODAL_FIRMWARE_INFO": "約10分かかり、\\n\nこの現象が続けば、カスタマーサービスまでお問い合わせください。",
-	"MODAL_FIRMWARE_GO_QUESTION": "1:1お問い合わせ"
+	"MODAL_FIRMWARE_GO_QUESTION": "1:1お問い合わせ",
+	"MODAL_FOOTER_QUIT": "",
+	"MODAL_FOOTER_RETRY": ""
 }

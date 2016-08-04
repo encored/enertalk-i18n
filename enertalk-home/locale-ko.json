@@ -72,7 +72,7 @@
 	"INTRO_POPUP_LOGIN_FAIL_DESC": "유저명 또는 비밀번호가 일치하지 않습니다.",
 	"INTRO_POPUP_LOGIN_FAIL_DESC2": "로그인에 실패했습니다.<br>초기 화면으로 이동합니다.",
 	"INTRO_POPUP_NETWORK": "네트워크 연결",
-	"INTRO_POPUP_NETWORK_OFFLINE": "네트워크 연결이 불안정합니다. 인터넷 연결이 가능한 네트워크로 설정해주세요. (\"enertag3_시리얼 넘버 끝 두자리\"는 인터넷 연결이 불가능한 Wi-Fi입니다.",
+	"INTRO_POPUP_NETWORK_OFFLINE": "네트워크 연결이 불안정합니다. 인터넷 연결이 가능한 네트워크로 설정해주세요. \"enertag3_시리얼 넘버 끝 두자리\"는 인터넷 연결이 불가능한 Wi-Fi입니다.",
 	"INTRO_POPUP_TOKEN_EXPIRE": "토큰 만료",
 	"INTRO_POPUP_TOKEN_EXPIRE_DESC": "토큰 재발급이 필요합니다. 로그인 또는 서드파티 앱 연동을 진행해주세요.",
 	"INTRO_POPUP_TOKEN_REFRESH": "토큰 갱신",
@@ -826,8 +826,8 @@
 	"AE_MEASURE_MEASURING_TITLE": "소비 전력 측정",
 	"AE_MEASURE_RESULT_TITLE": "소비 전력 측정 결과",
 	"AE_MEASURE_LIST_TITLE": "측정 목록",
-	"AE_LIST_GUIDE": "우리 집 가전 전기요금 얼마나 나오는지 직접 확인해 보세요.",
-	"AE_LIST_LITE_USER_GUIDE": "가전연비를 이용하시려면 EnerTalk Basic 서비스로 업그레이드를 해야 합니다.",
+	"AE_LIST_GUIDE": "우리 집 가전 전기 요금 얼마나 나오는지 직접 확인해 보세요.",
+	"AE_LIST_LITE_USER_GUIDE": "가전 연비를 이용하시려면 EnerTalk Basic 서비스로 업그레이드를 해야 합니다.",
 	"AE_LIST_GO_TIP": "가전 연비 알아보기",
 	"AE_LIST_NOW_MEASURING": "측정중",
 	"AE_LIST_PLEASE_MEASURE": "측정하세요",
@@ -938,6 +938,9 @@
 	"DASHBOARD_ECO_PUZZLE_PROGRESS": "{{percent}}% 완성",
 	"DASHBOARD_LABS_TITLE": "실험실",
 	"DASHBOARD_LABS_DESC": "Coming Soon",
+	"DASHBOARD_TIPS_TITLE": "이용 팁",
+	"DASHBOARD_TIPS_DESC": "에너톡 알아보기",
+	"DASHBOARD_MISSION_TITLE": "에너지 미션",
 	"ECO_PUZZLE_MAIN_TITLE": "에코 퍼즐",
 	"ECO_PUZZLE_IDEA_TITLE": "에코 아이디어",
 	"ECO_PUZZLE_PIECES": "조각",
@@ -1123,5 +1126,7 @@
 	"MODAL_OFFLINE_INFO_3": "현재 지역의 신호 확인",
 	"MODAL_FIRMWARE_TITLE": "기기 펌웨어 업데이트 중",
 	"MODAL_FIRMWARE_INFO": "최대 10분이 소요되며,\\n이 현상이 계속되면 고객센터로 연락해주세요.",
-	"MODAL_FIRMWARE_GO_QUESTION": "1:1 문의"
+	"MODAL_FIRMWARE_GO_QUESTION": "1:1 문의",
+	"MODAL_FOOTER_QUIT": "종료",
+	"MODAL_FOOTER_RETRY": "다시 시도"
 }
