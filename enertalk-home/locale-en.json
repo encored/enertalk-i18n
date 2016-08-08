@@ -837,6 +837,7 @@
 	"AE_MEASURE_LIST_TITLE": "Mesaurements",
 	"AE_LIST_GUIDE": "Let's check the enegy efficiency of appliances.",
 	"AE_LIST_LITE_USER_GUIDE": "You're using EnerTalk Lite service now.\nNeed to upgrade to EnerTalk Basic service plan in order to use 'Appliances'.",
+	"AE_COMMON_LITE_USER_GUIDE": "Need to upgrade to <strong>EnerTalk Basic</strong> service plan in order to use 'Appliances'.",
 	"AE_LIST_GO_TIP": "Learn more",
 	"AE_LIST_NOW_MEASURING": "Measuring",
 	"AE_LIST_PLEASE_MEASURE": "Measure",
