@@ -112,7 +112,7 @@
 		"TEXT_GRADUATED_FEE_WARN": "現在の使用パターンが続く場合、２日以内に{{step}}段階に入ります。段階適用時は、１kWhあたり、{{defaultBill}}ウォンとなり、現在より１kWhあたり{{extraBill}}ウォンが多く請求されます。",
 		"TEXT_NOTICE": "{{start}}から{{end}}まで定期点検のため、サービスが一時停止されます。利用にご不便をおかけしまして、申し訳ございません。",
 		"TEXT_MONTH_START": "今日から今月の検針期間が開始されます。エネルギー家計簿で先月の利用履歴を確認してください。",
-		"TEXT_METERING_DAY_NOTIFICATION": "今月の検針日まで後{{remain}}日です。エネルギー家計簿を確認してください。",
+		"TEXT_METERING_DAY_NOTIFICATION": "今月の検針日の{{remain}}日前です。エネルギー家計簿を確認してください。",
 		"TEXT_UNDER_MAXIMUM_LIMIT_USAGE": "今月の使用電力量は計画目標よりも低くなりました。しっかりと節電ができました。",
 		"TEXT_FORECAST_USAGE": "現在の使用パターンを継続する場合、今月の予想料金は{{bill}}です。",
 		"TEXT_MONTHLY_COMPARISON": "先月に比べて今月の使用量が{{rate}}%も高いです。",
