@@ -48,7 +48,8 @@
 		"TEXT_DEVICE_CONNECTION_UNSTABLE": "[알림] 기기와 Wi-Fi의 연결이 불안정합니다. 공유기를 항상 켜진 상태로 분전반에 가까이 놓아주세요! : )",
 		"TEXT_ANOMALY_DEVICE_USAGE": "[알림] 전기 사용 수치가 비정상적으로 수집되고 있습니다. 이는 분전반 내 전류측정센서(CT)의 문제일 수 있습니다. 문의가 필요하실 경우 고객센터로 연락주시기 바랍니다.",
 		"TEXT_METERING_START": "오늘부터 새로운 검침 기간이 시작됩니다. 에너지 가계부에서 지난달 이용 내역을 확인해보세요.",
-		"TEXT_METERING_GUIDE": "이번 달 검침일이 3일 남았습니다. 에너지 가계부를 확인해 보세요."
+		"TEXT_METERING_GUIDE": "이번 달 검침일이 3일 남았습니다. 에너지 가계부를 확인해 보세요.",
+		"TEXT_STEP_CHANGE_UPCOMING": "이틀 내 누진 {{tier}}단계로 진입할 것으로 보입니다. 이번달 예상 누진 단계는 {{expectedTier}}단계입니다."
 	},
 	"en": {
 		"TEXT_UPDATE_LABEL": "Refresh",
@@ -99,7 +100,8 @@
 		"TEXT_DEVICE_CONNECTION_UNSTABLE": "[Notification] The device's connection to the Wi-Fi is unstable. Please always keep your router on and place it close to the electric panel.",
 		"TEXT_ANOMALY_DEVICE_USAGE": "[Notification] Your usage data collection seems unusual. This could be a CT sensors' problem. Please contact Customer Support if you have any questions.",
 		"TEXT_METERING_START": "New metering period has started today. Don't forget to check out the energy report for last month.",
-		"TEXT_METERING_GUIDE": "3 days left until next billing cycle. Check your energy usage status."
+		"TEXT_METERING_GUIDE": "3 days left until next billing cycle. Check your energy usage status.",
+		"TEXT_STEP_CHANGE_UPCOMING": "In two days, your rate tier will reach Tier {{tier}}. Your final estimated tier for this month is {{expectedTier}}."
 	},
 	"ja": {
 		"TEXT_UPDATE_LABEL": "リアルタイムアップデート",
@@ -150,6 +152,7 @@
 		"TEXT_DEVICE_CONNECTION_UNSTABLE": "Wi-Fiの電波が不安定です。Wi-Fiルータを機器が取り付けられた分電盤の近くに移動してください。",
 		"TEXT_ANOMALY_DEVICE_USAGE": "電流が正しく計測できません。分電盤中に取り付けられた電流測定センサー(CT)のトラブルの可能性があります。",
 		"TEXT_METERING_START": "今日から今月の検針期間が開始されます。エネルギー家計簿で先月の利用履歴を確認してください。",
-		"TEXT_METERING_GUIDE": "今月の検針日の3日前です。エネルギー家計簿を確認してください。"
+		"TEXT_METERING_GUIDE": "今月の検針日の3日前です。エネルギー家計簿を確認してください。",
+		"TEXT_STEP_CHANGE_UPCOMING": "2日以内に{{tier}}段階の料金に入ると思われます。今月の予想段階は、{{expectedTier}}段階です。"
 	}
 }
