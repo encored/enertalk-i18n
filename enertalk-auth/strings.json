@@ -72,11 +72,11 @@
 		"TEXT_SMS_SENT": "認証番号を送信しました。",
 		"TEXT_INVALID_CODE": "認証番号が一致していません。",
 		"TEXT_SECURITY_CODE": "認証番号",
-		"TEXT_AGREE_PERMISSION": "app <br>is asking for your permissions:",
-		"TEXT_AGREE_SCOPE_PROFILE": "Look up your profiles registered in Encored Technologies.",
-		"TEXT_AGREE_SCOPE_API": "Request Encored API.",
-		"TEXT_AGREE_DECISION_GUIDE1": "Please click confirm button to allow",
-		"TEXT_AGREE_DECISION_GUIDE2": "app and Encored Technologies to use your informations to perform above permissions.",
+		"TEXT_AGREE_PERMISSION": "アプリが<br>次の権限を実行しようとしています。:",
+		"TEXT_AGREE_SCOPE_PROFILE": "Encored Technologiesに登録されたプロファイルを照会します。",
+		"TEXT_AGREE_SCOPE_API": "EnertalkのAPI要求を実行します。",
+		"TEXT_AGREE_DECISION_GUIDE1": "同意ボタンをクリックすると、上記の権限のために",
+		"TEXT_AGREE_DECISION_GUIDE2": "アプリとEncored Technologiesが、お客様の情報を使用することを許可します。",
 		"BUTTON_ACCEPT": "同意する",
 		"BUTTON_CANCEL": "キャンセル"
 	}
