@@ -61,7 +61,7 @@
 	"INTRO_TEXT_SIGNUP_EMAIL_SEND": "인증 메일을 전송하였습니다.",
 	"INTRO_TEXT_SIGNUP_EMAIL_SEND_2": "인증 메일을 2회 전송하였습니다.",
 	"INTRO_TEXT_SIGNUP_EMAIL_SEND_3": "인증 메일을 3회 전송하였습니다.",
-	"INTRO_TEXT_SIGNUP_EMAIL_SEND_SUB": "이메일에 있는 인증번호를 직접 입력하거나 이메일에서 [이메일 인증] 버튼을 눌러주세요.",
+	"INTRO_TEXT_SIGNUP_EMAIL_SEND_SUB": "이메일에 있는 인증번호를 직접 입력주세요.",
 	"INTRO_TEXT_SIGNUP_PHONE_SEND": "인증 번호를 전송하였습니다.",
 	"INTRO_TEXT_SIGNUP_PHONE_RESEND": "인증 번호를 재전송하였습니다.",
 	"INTRO_TEXT_AGREE_EMAIL": "이메일 수신 동의",
