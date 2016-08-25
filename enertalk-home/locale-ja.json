@@ -793,6 +793,7 @@
 	"AE_LIST_GO_TIP": "もっと詳しく知る",
 	"AE_LIST_NOW_MEASURING": "測定中",
 	"AE_LIST_PLEASE_MEASURE": "測定してください。",
+	"AE_LIST_CHECK_DETAIL": "燃費を確認してください。",
 	"AE_DETAIL_EFFICIENCY_NEED_MEASURE": "家電燃費計算のために、消費電力を測定してください。",
 	"AE_DETAIL_EFFICIENCY_ME": "我が家",
 	"AE_DETAIL_EFFICIENCY_NEIGHBOR": "ユーザ平均",
