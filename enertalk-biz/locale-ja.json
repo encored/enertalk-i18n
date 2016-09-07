@@ -366,7 +366,7 @@
 	"SETTING_REGION_MODIFY": "地域修正",
 	"SETTING_REGION_SELF_SEARCH": "入力して探す",
 	"SETTING_REGION_SELF_SEARCH_DESC": "現在地が検索できない場合直接入力して設置地域が検索できます。",
-	"SETTING_REGION_GET_LOCATION": "現在地（GPS）から探す",
+	"SETTING_REGION_GET_LOCATION": "現在地から探す",
 	"SETTING_REGION_GET_LOCATION_DESC": "スマホのGPSを通して機器の設置場所を探します。設置場所によってGPSの精度が変わります。",
 	"SETTING_REGION_RELOAD_LOCATION": "再検索",
 	"SETTING_REGION_LOAD_LOCATION_DESC": "正確な位置が検索できない場合、「入力して検索」から地域を設定してください。",
