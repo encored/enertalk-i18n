@@ -161,6 +161,8 @@
 	"DASHBOARD_COMPARISON_LEVEL_4": "Less efficient",
 	"DASHBOARD_COMPARISON_LEVEL_5": "Not efficient",
 	"TAG_DESC_NO_TAG": "To monitor each facility's usage, additional EnerTalk device should be installed.",
+	"TAG_REALTIME_TITLE": "Realtime",
+	"TAG_MONTHLY_TITLE": "Monthly",
 	"2_setting": "@COMMENT",
 	"SETTING_MENU_PROFILE": "Profile",
 	"SETTING_MENU_PROFILE_NICKNAME": "Nick Name",
