@@ -11,13 +11,13 @@
 		"TEXT_TODAY_FORECAST": "Today forecast",
 		"TEXT_YESTERDAY": "Yesterday",
 		"TEXT_LAST_WEEK": "Last",
-		"TEXT_FORECAST_GUIDE": "More usage data needed (minimum 3 week)"
+		"TEXT_FORECAST_GUIDE": "More usage data needed (minimum 3 weeks)"
 	},
 	"ja": {
 		"TEXT_NOW": "現在",
 		"TEXT_TODAY_FORECAST": "今日予想",
 		"TEXT_YESTERDAY": "昨日",
 		"TEXT_LAST_WEEK": "先週の",
-		"TEXT_FORECAST_GUIDE": "機器を設置し、3週間後から今日の予想使用電力量を見ることができます。"
+		"TEXT_FORECAST_GUIDE": "機器設置の3週後から今日の予想使用電力量を見ることができます。"
 	}
 }

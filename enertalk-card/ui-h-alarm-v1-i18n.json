@@ -6,19 +6,19 @@
 		"TEXT_INIT_USAGE": "EnerTalk HOME 가입을 축하합니다. 첫 검침일이 지나기 전까지는 설치 전 데이터가 반영되지 않으므로 실제 전기요금과 다소 차이가 있을 수 있습니다.",
 		"TEXT_MAXIMUM_LIMIT_USAGE_SOON": "이번 달 계획량이 곧 초과됩니다.",
 		"TEXT_MAXIMUM_LIMIT_USAGE_EXCEED": "계획량이 초과되었습니다.사용량 계획을 다시 세워 주세요.",
-		"TEXT_SITE_UNIT_USAGE": "누진세 {{step}}단계에 진입했습니다. 현 시점부터 기본요금이 {{defaultBill}}원, 1kWh당 {{unitBill}}원의 요금이 적용됩니다.",
-		"TEXT_GRADUATED_FEE_WARN": "현재 사용패턴을 지속하면 2일 내에 누진세 {{step}}단계에 진입합니다. 누진세 {{step}}단계 적용시 1kWh당 {{defaultBill}}원으로 현재보다 kWh당 {{extraBill}}원이 더 부과됩니다.",
+		"TEXT_SITE_UNIT_USAGE": "누진 {{step}}단계에 진입했습니다. 현 시점부터 기본요금이 {{defaultBill}}원, 1kWh당 {{unitBill}}원의 요금이 적용됩니다.",
+		"TEXT_GRADUATED_FEE_WARN": "현재 사용패턴을 지속하면 2일 내에 누진 {{step}}단계에 진입합니다. 누진 {{step}}단계 적용시 1kWh당 {{defaultBill}}원으로 현재보다 kWh당 {{extraBill}}원이 더 부과됩니다.",
 		"TEXT_NOTICE": "{{start}}에서 {{end}}까지 정기점검으로 인해 서비스가 잠시 중단됩니다. 이용에 불편을 드려 죄송합니다.",
 		"TEXT_MONTH_START": "오늘부터 새로운 검침 기간이 시작됩니다. 에너지 가계부에서 지난달 이용 내역을 확인해보세요.",
-		"TEXT_METERING_DAY_NOTIFICATION": "이번 달 검침일이 {{remain}}일 남았습니다. 계획량을 달성했는지 확인해 보세요.",
+		"TEXT_METERING_DAY_NOTIFICATION": "이번 달 검침일이 {{remain}}일 남았습니다. 에너지 가계부를 확인해 보세요.",
 		"TEXT_UNDER_MAXIMUM_LIMIT_USAGE": "절약해주셔서 감사합니다. 이번 달 사용량이 계획량보다 적습니다.",
-		"TEXT_FORECAST_USAGE": "현재 사용 패턴을 유지할 경우 이번달 예상요금은 {{bill}}입니다.",
-		"TEXT_MONTHLY_COMPARISON": "지난달에 비해 이번 달 사용량이 {{rate}}%나 높게 나왔어요.",
+		"TEXT_FORECAST_USAGE": "현재 사용 패턴을 유지할 경우 이번 달 예상 요금은 {{bill}}입니다.",
+		"TEXT_MONTHLY_COMPARISON": "지난달에 비해 이번 달 사용량이 {{rate}}% 높게 나왔어요.",
 		"TEXT_NEIGHBOR_COMPARISON_LOW": "이번 달 평균 사용량이 이웃보다 {{rate}}% 낮게 나왔어요.",
-		"TEXT_NEIGHBOR_COMPARISON_EQUAL": "이번 달 이웃대비 평균 사용량이 같습니다.",
-		"TEXT_NEIGHBOR_COMPARISON_HIGH": "이번 달 평균 사용량이 이웃보다 {{rate}}%나 높게 나왔어요.",
+		"TEXT_NEIGHBOR_COMPARISON_EQUAL": "이번 달 이웃 대비 평균 사용량이 같습니다.",
+		"TEXT_NEIGHBOR_COMPARISON_HIGH": "이번 달 평균 사용량이 이웃보다 {{rate}}% 높게 나왔어요.",
 		"TEXT_HIGH_BASE_POWER": "시간당 대기전력량이 다소 높습니다. 사용하지 않는 가전제품 플러그는 뽑아주세요.",
-		"TEXT_NO_MESSAGE": "이번 달 알림이 현재까지 존재하지 않습니다.",
+		"TEXT_NO_MESSAGE": "아직 이번 달 알림이 없습니다.",
 		"TEXT_YEAR": "년",
 		"TEXT_MONTH_1": "1월",
 		"TEXT_MONTH_2": "2월",
@@ -48,7 +48,8 @@
 		"TEXT_DEVICE_CONNECTION_UNSTABLE": "[알림] 기기와 Wi-Fi의 연결이 불안정합니다. 공유기를 항상 켜진 상태로 분전반에 가까이 놓아주세요! : )",
 		"TEXT_ANOMALY_DEVICE_USAGE": "[알림] 전기 사용 수치가 비정상적으로 수집되고 있습니다. 이는 분전반 내 전류측정센서(CT)의 문제일 수 있습니다. 문의가 필요하실 경우 고객센터로 연락주시기 바랍니다.",
 		"TEXT_METERING_START": "오늘부터 새로운 검침 기간이 시작됩니다. 에너지 가계부에서 지난달 이용 내역을 확인해보세요.",
-		"TEXT_METERING_GUIDE": "이번 달 검침일이 3일 남았습니다. 계획량을 달성했는지 확인해 보세요."
+		"TEXT_METERING_GUIDE": "이번 달 검침일이 3일 남았습니다. 에너지 가계부를 확인해 보세요.",
+		"TEXT_STEP_CHANGE_UPCOMING": "이틀 내 누진 {{tier}}단계로 진입할 것으로 보입니다. 이번 달 예상 누진 단계는 {{expectedTier}}단계입니다."
 	},
 	"en": {
 		"TEXT_UPDATE_LABEL": "Refresh",
@@ -99,7 +100,8 @@
 		"TEXT_DEVICE_CONNECTION_UNSTABLE": "[Notification] The device's connection to the Wi-Fi is unstable. Please always keep your router on and place it close to the electric panel.",
 		"TEXT_ANOMALY_DEVICE_USAGE": "[Notification] Your usage data collection seems unusual. This could be a CT sensors' problem. Please contact Customer Support if you have any questions.",
 		"TEXT_METERING_START": "New metering period has started today. Don't forget to check out the energy report for last month.",
-		"TEXT_METERING_GUIDE": "3 days left until next billing cycle. Check your energy usage status."
+		"TEXT_METERING_GUIDE": "3 days left until next billing cycle. Check your energy usage status.",
+		"TEXT_STEP_CHANGE_UPCOMING": "In two days, your rate tier will reach Tier {{tier}}. Your final estimated tier for this month is {{expectedTier}}."
 	},
 	"ja": {
 		"TEXT_UPDATE_LABEL": "リアルタイムアップデート",
@@ -112,7 +114,7 @@
 		"TEXT_GRADUATED_FEE_WARN": "現在の使用パターンが続く場合、２日以内に{{step}}段階に入ります。段階適用時は、１kWhあたり、{{defaultBill}}ウォンとなり、現在より１kWhあたり{{extraBill}}ウォンが多く請求されます。",
 		"TEXT_NOTICE": "{{start}}から{{end}}まで定期点検のため、サービスが一時停止されます。利用にご不便をおかけしまして、申し訳ございません。",
 		"TEXT_MONTH_START": "今日から今月の検針期間が開始されます。エネルギー家計簿で先月の利用履歴を確認してください。",
-		"TEXT_METERING_DAY_NOTIFICATION": "今月の検針日まで後{{remain}}日です。計画量を達成したか確認してください。",
+		"TEXT_METERING_DAY_NOTIFICATION": "今月の検針日の{{remain}}日前です。エネルギー家計簿を確認してください。",
 		"TEXT_UNDER_MAXIMUM_LIMIT_USAGE": "今月の使用電力量は計画目標よりも低くなりました。しっかりと節電ができました。",
 		"TEXT_FORECAST_USAGE": "現在の使用パターンを継続する場合、今月の予想料金は{{bill}}です。",
 		"TEXT_MONTHLY_COMPARISON": "先月に比べて今月の使用量が{{rate}}%も高いです。",
@@ -150,6 +152,7 @@
 		"TEXT_DEVICE_CONNECTION_UNSTABLE": "Wi-Fiの電波が不安定です。Wi-Fiルータを機器が取り付けられた分電盤の近くに移動してください。",
 		"TEXT_ANOMALY_DEVICE_USAGE": "電流が正しく計測できません。分電盤中に取り付けられた電流測定センサー(CT)のトラブルの可能性があります。",
 		"TEXT_METERING_START": "今日から今月の検針期間が開始されます。エネルギー家計簿で先月の利用履歴を確認してください。",
-		"TEXT_METERING_GUIDE": "今月の検針日の3日前です。計画量を達成したか確認してみてください。"
+		"TEXT_METERING_GUIDE": "今月の検針日の3日前です。エネルギー家計簿を確認してください。",
+		"TEXT_STEP_CHANGE_UPCOMING": "2日以内に{{tier}}段階の料金に入ると思われます。今月の予想段階は、{{expectedTier}}段階です。"
 	}
 }
