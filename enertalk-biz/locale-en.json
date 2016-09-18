@@ -202,8 +202,6 @@
 	"PROFILE_PASSWORD_INVALID_MATCH": "It does not match with the new password.",
 	"PROFILE_PASSWORD_POPUP_SAVE_TITLE": "Change Password",
 	"PROFILE_PASSWORD_POPUP_SAVE_DESC": "Do you want to change your password?",
-	"BILLING_INFO_POPUP_COMPLETE": "Your change has been saved successfuly.",
-	"COMPARISON_INFO_POPUP_COMPLETE": "Your change has been saved successfuly.",
 	"ALARM_INFO_POPUP_COMPLETE": "Push通知の設定が変更されました。",
 	"DEVICE_STATUS_MAIN_WIFI_TITLE": "Wi-Fi is disconnected",
 	"DEVICE_STATUS_MAIN_CT_TITLE": "Please connect the CT sensors",

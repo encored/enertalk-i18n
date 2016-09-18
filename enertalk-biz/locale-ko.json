@@ -202,8 +202,6 @@
 	"PROFILE_PASSWORD_INVALID_MATCH": "새 비밀번호와 일치하지 않습니다.",
 	"PROFILE_PASSWORD_POPUP_SAVE_TITLE": "비밀번호 변경",
 	"PROFILE_PASSWORD_POPUP_SAVE_DESC": "비밀번호를 변경하시겠습니까?",
-	"BILLING_INFO_POPUP_COMPLETE": "요금 계산 정보 변경을 완료했습니다.",
-	"COMPARISON_INFO_POPUP_COMPLETE": "유사점포비교 정보 변경을 완료했습니다.",
 	"ALARM_INFO_POPUP_COMPLETE": "Push 알림 설정이 변경되었습니다.",
 	"DEVICE_STATUS_MAIN_WIFI_TITLE": "Wi-Fi 연결이 끊겼습니다",
 	"DEVICE_STATUS_MAIN_CT_TITLE": "전류측정센서(CT)를 연결해 주세요",
