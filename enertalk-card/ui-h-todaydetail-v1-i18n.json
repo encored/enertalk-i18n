@@ -8,7 +8,7 @@
 	},
 	"en": {
 		"TEXT_NOW": "Current",
-		"TEXT_TODAY_FORECAST": "Today forecast",
+		"TEXT_TODAY_FORECAST": "Today Estimated",
 		"TEXT_YESTERDAY": "Yesterday",
 		"TEXT_LAST_WEEK": "Last",
 		"TEXT_FORECAST_GUIDE": "More usage data needed (minimum 3 weeks)"
