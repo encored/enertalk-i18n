@@ -1,11 +1,23 @@
 {
 	"ko": {
-		"TEXT_PEAK": "피크"
+		"TEXT_REALTIME": "NOW",
+		"TEXT_PEAK": "피크",
+		"TEXT_PEAK_NORMAL": "양호",
+		"TEXT_PEAK_WARNING": "주의",
+		"TEXT_PEAK_EMERGENCY": "비상"
 	},
 	"en": {
-		"TEXT_PEAK": "Peak"
+		"TEXT_REALTIME": "NOW",
+		"TEXT_PEAK": "Peak",
+		"TEXT_PEAK_NORMAL": "Normal",
+		"TEXT_PEAK_WARNING": "Warning",
+		"TEXT_PEAK_EMERGENCY": "Emergency"
 	},
 	"ja": {
-		"TEXT_PEAK": "ピーク"
+		"TEXT_REALTIME": "NOW",
+		"TEXT_PEAK": "ピーク",
+		"TEXT_PEAK_NORMAL": "正常",
+		"TEXT_PEAK_WARNING": "注意",
+		"TEXT_PEAK_EMERGENCY": "緊急"
 	}
 }
