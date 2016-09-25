@@ -1,20 +1,20 @@
 {
 	"ko": {
-		"TEXT_NOW": "현재",
+		"TEXT_TODAY": "오늘",
 		"TEXT_TODAY_FORECAST": "오늘 예상",
 		"TEXT_YESTERDAY": "어제",
 		"TEXT_LAST_WEEK": "지난주",
 		"TEXT_FORECAST_GUIDE": "기기 설치 3주 후부터 오늘 예상 사용량 및 요금을 볼 수 있습니다."
 	},
 	"en": {
-		"TEXT_NOW": "Current",
+		"TEXT_TODAY": "Today",
 		"TEXT_TODAY_FORECAST": "Today forecast",
 		"TEXT_YESTERDAY": "Yesterday",
 		"TEXT_LAST_WEEK": "Last",
 		"TEXT_FORECAST_GUIDE": "More usage data needed (minimum 3 week)"
 	},
 	"ja": {
-		"TEXT_NOW": "現在",
+		"TEXT_TODAY": "        'TEXT_TODAY': '今日',",
 		"TEXT_TODAY_FORECAST": "今日予想",
 		"TEXT_YESTERDAY": "昨日",
 		"TEXT_LAST_WEEK": "先週の",

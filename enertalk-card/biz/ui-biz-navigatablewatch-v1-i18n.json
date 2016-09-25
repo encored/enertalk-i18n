@@ -1,6 +1,6 @@
 {
 	"ko": {
-		"TEXT_TITLE": "우리 집 에너지 시계",
+		"TEXT_TITLE": "한 달 동안의 에너지 시계",
 		"TEXT_TODAY": "오늘",
 		"TEXT_DAY": "일",
 		"TEXT_MONTH_1": "1월",
@@ -17,7 +17,7 @@
 		"TEXT_MONTH_12": "12월"
 	},
 	"en": {
-		"TEXT_TITLE": "Energy Clock",
+		"TEXT_TITLE": "Energy Clock for a month",
 		"TEXT_TODAY": "Today",
 		"TEXT_DAY": "th",
 		"TEXT_MONTH_1": "Jan",
@@ -34,7 +34,7 @@
 		"TEXT_MONTH_12": "Dec"
 	},
 	"ja": {
-		"TEXT_TITLE": "自宅のエネルギー時計",
+		"TEXT_TITLE": "１ヶ月のエネルギー時計",
 		"TEXT_TODAY": "今日",
 		"TEXT_DAY": "日",
 		"TEXT_MONTH_1": "1月",
