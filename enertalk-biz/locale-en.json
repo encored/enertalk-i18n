@@ -270,6 +270,7 @@
 	"SETTING_BILLING_TITLE_SUPPLIER": "Supplier",
 	"SETTING_BILLING_TITLE_RATEPLAN": "Rate Plan",
 	"SETTING_BILLING_TITLE_RATE_OPTION": "Rate Option",
+	"SETTING_SAVE_CONFIRM_DESC": "保存してもよろしいですか？",
 	"SETTING_SAVE_COMPLETE": "Save completed.",
 	"SETTING_SAVE_FAILED": "Changes failed. If repeat, please contact the Customer Service Center.",
 	"3_tips": "@COMMENT",

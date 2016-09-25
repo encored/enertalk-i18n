@@ -270,6 +270,7 @@
 	"SETTING_BILLING_TITLE_SUPPLIER": "電力会社",
 	"SETTING_BILLING_TITLE_RATEPLAN": "料金プラン",
 	"SETTING_BILLING_TITLE_RATE_OPTION": "料金設定項目",
+	"SETTING_SAVE_CONFIRM_DESC": "保存してもよろしいですか？",
 	"SETTING_SAVE_COMPLETE": "保存が完了しました。",
 	"SETTING_SAVE_FAILED": "保存に失敗しました。繰り返す場合は、お客様センターにお問い合わせください。",
 	"3_tips": "@COMMENT",
