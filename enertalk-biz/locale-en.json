@@ -117,6 +117,7 @@
 	"2_setting": "@COMMENT",
 	"SETTING_MENU_PROFILE": "Profile",
 	"SETTING_MENU_BILLING": "Monthly Report",
+	"SETTING_MENU_BIZ": "BIZ information",
 	"SETTING_MENU_COMPARISON": "Neighbor comparison",
 	"SETTING_MENU_TAG": "Equipment specific name and use",
 	"SETTING_MENU_WIFI": "Change device / Wi-Fi network",

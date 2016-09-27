@@ -117,6 +117,7 @@
 	"2_setting": "@COMMENT",
 	"SETTING_MENU_PROFILE": "프로필 관리",
 	"SETTING_MENU_BILLING": "요금 매니저",
+	"SETTING_MENU_BIZ": "내 점포관리",
 	"SETTING_MENU_COMPARISON": "유사점포 비교",
 	"SETTING_MENU_TAG": "중요설비 명칭 및 용도",
 	"SETTING_MENU_WIFI": "Wi-Fi 변경 및 기기 교체",
