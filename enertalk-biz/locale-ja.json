@@ -117,6 +117,7 @@
 	"2_setting": "@COMMENT",
 	"SETTING_MENU_PROFILE": "プロフィール管理",
 	"SETTING_MENU_BILLING": "料金マネージャー",
+	"SETTING_MENU_BIZ": "店舗情報",
 	"SETTING_MENU_COMPARISON": "類似店舗比較",
 	"SETTING_MENU_TAG": "重要設備名称と用途",
 	"SETTING_MENU_WIFI": "Wi-Fi変更及び機器の交換",
