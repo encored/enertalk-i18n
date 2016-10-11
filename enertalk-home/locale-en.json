@@ -450,6 +450,7 @@
 	"INSTALL_V2_WIFI_PASSWORD_LABEL_SSID": "",
 	"INSTALL_V2_WIFI_PASSWORD_MAXLEN": "The length of Wi-Fi name and password should be less than 36 characters",
 	"INSTALL_V2_WIFI_PASSWORD_INCORRECT": "Invalid password",
+	"INSTALL_V2_WIFI_PASSWORD_INVALID": "",
 	"INSTALL_V2_DEVICE_LAMP_TITLE": "Go Next when status light turned on as appeared on the image",
 	"INSTALL_V2_DEVICE_LAMP_DESC1": "Press button right bottom of the letter BTN with a paper clip",
 	"INSTALL_V2_DEVICE_LAMP_DESC2": "Please be cautious of using sharp pins or needle",
