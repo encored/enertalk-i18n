@@ -450,7 +450,7 @@
 	"INSTALL_V2_WIFI_PASSWORD_LABEL_SSID": "연결된 Wi-Fi :",
 	"INSTALL_V2_WIFI_PASSWORD_MAXLEN": "\"Wi-Fi 이름 + 비밀번호\" 36자 이하로 변경해주세요.",
 	"INSTALL_V2_WIFI_PASSWORD_INCORRECT": "Wi-Fi 비밀번호가 틀렸습니다.",
-	"INSTALL_V2_WIFI_PASSWORD_INVALID": "영문, 숫자, 특수문자 외의 비밀번호는 지원되지 않습니다.",
+	"INSTALL_V2_WIFI_PASSWORD_INVALID": "비밀번호는 영문, 숫자, 특수문자로만 입력해주세요.",
 	"INSTALL_V2_DEVICE_LAMP_TITLE": "기기 불빛이 그림과 같다면 [다음]을 눌러주세요.",
 	"INSTALL_V2_DEVICE_LAMP_DESC1": "위 그림과 다르다면 BTN 글자 아래 작은 구멍을 눌러 초록색 불만 켜진 상태로 만들어주세요.",
 	"INSTALL_V2_DEVICE_LAMP_DESC2": "구멍을 누를 때는 클립과 같이 끝이 평평하고 얇은 도구를 이용해주세요.",
