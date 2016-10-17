@@ -36,7 +36,7 @@
 		"TEXT_TIER_MULTIPLE": "단가 {{multiple}}배",
 		"TEXT_WEEKLY_TITLE": "이때 사용량이 많았어요!",
 		"TEXT_VIEW_BILL": "요금 함께 보기",
-		"TEXT_BILL_BASE": "기본요금",
+		"TEXT_BILL_BASE": "기본 요금",
 		"TEXT_BILL_AMOUNT": "전력량 요금",
 		"TEXT_BILL_TIER": "누진 단계",
 		"TEXT_BILL_TIER_UNIT": "단가",
@@ -51,9 +51,9 @@
 		"TEXT_BILL_DISCOUNT": "할인 요금",
 		"TEXT_BILL_TAX": "부가가치세",
 		"TEXT_BILL_FOUNDATION": "전력산업기반기금",
-		"TEXT_BILL_EXCLUDE_GUIDE": "공동 전기료, TV수신료 등은 포함되어 있지 않습니다.",
-		"TEXT_BILL_EXCLUDE_GUIDE_JP1": "・연료비조정액, 재생가능에너지발전촉진부과금은 포함되어 있지 않습니다.",
-		"TEXT_BILL_EXCLUDE_GUIDE_JP2": "・본 어플에서 표시하는 요금은 참고요금입니다. 청구되는 전기요금과 일치하지 않을 수 있습니다."
+		"TEXT_BILL_EXCLUDE_GUIDE": "공동 전기료, TV 수신료 등은 포함되어 있지 않습니다.",
+		"TEXT_BILL_EXCLUDE_GUIDE_JP1": "・연료비 조정액, 재생 가능 에너지 발전촉진 부과금은 포함되어 있지 않습니다.",
+		"TEXT_BILL_EXCLUDE_GUIDE_JP2": "・본 어플에서 표시하는 요금은 참고 요금입니다. 청구되는 전기 요금과 일치하지 않을 수 있습니다."
 	},
 	"en": {
 		"TEXT_TOTAL": "Yearly Total",
