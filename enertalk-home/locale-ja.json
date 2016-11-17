@@ -672,6 +672,7 @@
 	"CAMPAIGN_TEXT_COMPLETE_TITLE": "{{point}}ウォン寄付完了",
 	"CAMPAIGN_TEXT_INCOMPLETE_TITLE": "達成時、{{point}}ウォン寄付",
 	"CAMPAIGN_TEXT_SUMMARY_TITLE": "ミッション結果: キャンペーン",
+	"CAMPAIGN_TEXT_SUMMARY_DESC": "",
 	"CAMPAIGN_TEXT_CIRCLE": "達成",
 	"CAMPAIGN_TEXT_PARTICIPANTS_COMPLETE": "{{count}}家庭が目標達成しました。",
 	"CAMPAIGN_TEXT_PARTICIPANTS_INCOMPLETE": "今まで{{count}}家庭が目標達成しています。",
