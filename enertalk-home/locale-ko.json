@@ -672,6 +672,7 @@
 	"CAMPAIGN_TEXT_COMPLETE_TITLE": "{{point}}원 기부 완료",
 	"CAMPAIGN_TEXT_INCOMPLETE_TITLE": "달성시 {{point}}원 기부",
 	"CAMPAIGN_TEXT_SUMMARY_TITLE": "기부 결과",
+	"CAMPAIGN_TEXT_SUMMARY_DESC": "{{participants}}가구 성공으로 {{amount}}Wh 기부",
 	"CAMPAIGN_TEXT_CIRCLE": "달성",
 	"CAMPAIGN_TEXT_PARTICIPANTS_COMPLETE": "총 {{count}}가구가 성공했어요!",
 	"CAMPAIGN_TEXT_PARTICIPANTS_INCOMPLETE": "지금까지 {{count}}가구가 성공했어요!",

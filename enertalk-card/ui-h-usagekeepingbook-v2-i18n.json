@@ -91,7 +91,7 @@
 		"TEXT_CURRENT_STEP": "{{step}}00kWh",
 		"TEXT_NEXT_TIER_DAY": "Will reach at {{nextTier}} in {{remain}} days",
 		"TEXT_NEXT_TIER_HOUR": "Will reach at {{nextTier}} in {{remain}} hours",
-		"TEXT_TIER_MULTIPLE": "Rate x{{multiple}}",
+		"TEXT_TIER_MULTIPLE": "Rate x {{multiple}}",
 		"TEXT_EXPECT_FINAL_STEP": "Estimated Rate : Tier {{tier}}",
 		"TEXT_FINAL_STEP": "Reaching at the highest priced tier",
 		"TEXT_WEEKLY_TITLE": "Peak Usage Hour",
