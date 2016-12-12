@@ -679,6 +679,7 @@
 	"CAMPAIGN_TEXT_ENERGY_HERO": "(본 캠페인은 에너지 히어로와 함께 하였으며<br>\n기부금 영수증 발급 대상에서 제외됩니다.)",
 	"CAMPAIGN_TEXT_RESULT_DESC": "기부에 참여해 주셔서 감사합니다.",
 	"CAMPAIGN_TEXT_RESULT_LINK": "기부 스토리 보러 가기",
+	"CAMPAIGN_TEXT_NO_LIST": "참여 가능한 캠페인이 없습니다.",
 	"NOW_TEXT_TITLE": "NOW",
 	"TODAY_TEXT_TITLE": "TODAY",
 	"TIPS_MENU_NOW": "NOW",
