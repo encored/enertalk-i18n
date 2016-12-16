@@ -610,7 +610,7 @@
 	"MISSION_TEXT_JOIN_REMAIN_LABEL": "Remaining Usage",
 	"MISSION_TEXT_JOIN_BATTERY": "Accelerating",
 	"MISSION_TEXT_JOIN_GOOD_STATUS": "Well done!<br>You're on track to be succeeded in Energy Mission.",
-	"MISSION_TEXT_JOIN_BAD_STATUS": "Oh no!<br> You're off track to be successded in Energy Mission.",
+	"MISSION_TEXT_JOIN_BAD_STATUS": "Oh no!<br> You're off track to be succeeded in Energy Mission.",
 	"MISSION_TEXT_JOIN_DANGER_STATUS": "Almost there!<br>Please turn off major appliances.",
 	"MISSION_TEXT_JOIN_FAIL_STATUS": "Mission Failed<br>Don't miss another chance to meet your remaining goals!",
 	"MISSION_TEXT_JOIN_RESULT_PERIOD": "{{createdAt}} ({{day}}) {{start}} {{hourType}} ~ {{end}} {{hourType}}",
