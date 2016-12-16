@@ -588,7 +588,7 @@
 	"MISSION_TEXT_JOIN_TIMER_PREPARE": "{{hours}}時間{{minutes}}分{{seconds}}秒後開始",
 	"MISSION_TEXT_JOIN_TIMER_PROGRESS": "{{minutes}}分{{seconds}}秒後ミッション終了",
 	"MISSION_TEXT_JOIN_TIMER_CLOSED": "ミッション結果集計中",
-	"MISSION_TEXT_JOIN_GUIDE_TITLE": "ミッションに<br>成功するには?",
+	"MISSION_TEXT_JOIN_GUIDE_TITLE": "ミッションに成功するには?",
 	"MISSION_TEXT_JOIN_GUIDE_SLIDE1_P1": "待機電力が大きいTVやコンピュータ、モニターのプラグは抜いてください。",
 	"MISSION_TEXT_JOIN_GUIDE_SLIDE1_P2": "待機電力の大きい家電",
 	"MISSION_TEXT_JOIN_GUIDE_SLIDE1_P3": "DVDプレーヤー、オーディオ、セットトップボックス、外付けモデム、ビデオ、ビデ、プリンタ、電子レンジ",
