@@ -669,6 +669,7 @@
 	"MISSION_PREPARE_POPUP_TITLE": "Registration Complete",
 	"MISSION_PREPARE_POPUP_GUIDE": "Please do not turn off your Wi-Fi router during Energy Mission",
 	"MISSION_PREPARE_POPUP_CONFIRM": "Okay, got it",
+	"MISSION_BUTTON_CANCEL_SHORT": "Cancel",
 	"CAMPAIGN_TEXT_LIST_TITLE": "Thank you for your donations!",
 	"CAMPAIGN_TEXT_PROGRESS_TITLE": "Achieved",
 	"CAMPAIGN_TEXT_PROGRESS_TITLE_SUB": "Goal {{amount}}",

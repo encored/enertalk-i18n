@@ -669,6 +669,7 @@
 	"MISSION_PREPARE_POPUP_TITLE": "ミッション参加申請完了",
 	"MISSION_PREPARE_POPUP_GUIDE": "ミッション進行中にはWi-Fiルータの電源を切らないでください。",
 	"MISSION_PREPARE_POPUP_CONFIRM": "確認しました。",
+	"MISSION_BUTTON_CANCEL_SHORT": "取消",
 	"CAMPAIGN_TEXT_LIST_TITLE": "成功時、寄付されるキャンペーン",
 	"CAMPAIGN_TEXT_PROGRESS_TITLE": "キャンペーン達成率",
 	"CAMPAIGN_TEXT_PROGRESS_TITLE_SUB": "目標 {{amount}}",
