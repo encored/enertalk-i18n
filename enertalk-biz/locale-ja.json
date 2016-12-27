@@ -36,6 +36,7 @@
 	"INTRO_BUTTON_SIGNUP_COMPLETE": "登録完了",
 	"INTRO_BUTTON_CODE_CONFIRM": "認証番号の確認",
 	"INTRO_BUTTON_PASSWORD_RESET": "再設定",
+	"INTRO_BUTTON_REQUEST_CODE": "",
 	"INTRO_PLACEHOLDER_EMAIL": "メールアドレス",
 	"INTRO_PLACEHOLDER_EMAIL_CONFIRM": "メールアドレス（確認）",
 	"INTRO_PLACEHOLDER_PARENT_EMAIL": "承認者メールアドレス",
@@ -344,8 +345,13 @@
 	"SETTING_SAVE_FAILED": "保存に失敗しました。繰り返す場合は、お客様センターにお問い合わせください。",
 	"SETTING_MENU_TITLE_ALARM_SITE": "通知対象店舗の選択",
 	"SETTING_ALARM_GUIDE_SITE": "複数の店舗を保有している場合、１つの店舗のみ通知を受信することができます。",
+	"SETTING_DEVICE_ADD": "",
 	"SETTING_DEVICE_BUTTON_ADD": "",
+	"SETTING_DEVICE_BUTTON_DELETE": "",
+	"SETTING_ENERTALK_LIST": "",
+	"SETTING_POPUP_REMOVE_DESC": "",
 	"3_tips": "@COMMENT",
 	"TIPS_MENU_NOW": "NOW",
-	"TIPS_TEXT_QNA": "1:1お問い合わせ"
+	"TIPS_TEXT_QNA": "1:1お問い合わせ",
+	"TIPE_BUTTON_NEXT": ""
 }

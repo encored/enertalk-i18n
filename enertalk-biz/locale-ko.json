@@ -36,6 +36,7 @@
 	"INTRO_BUTTON_SIGNUP_COMPLETE": "동의하고 가입 완료",
 	"INTRO_BUTTON_CODE_CONFIRM": "인증번호 확인",
 	"INTRO_BUTTON_PASSWORD_RESET": "재설정",
+	"INTRO_BUTTON_REQUEST_CODE": "인증",
 	"INTRO_PLACEHOLDER_EMAIL": "이메일",
 	"INTRO_PLACEHOLDER_EMAIL_CONFIRM": "이메일 확인",
 	"INTRO_PLACEHOLDER_PARENT_EMAIL": "가입 승인받을 상위 관리자 이메일",
@@ -344,8 +345,13 @@
 	"SETTING_SAVE_FAILED": "저장에 실패했습니다. 반복될 경우 고객센터에 문의해주시기 바랍니다.",
 	"SETTING_MENU_TITLE_ALARM_SITE": "알림 점포 선택",
 	"SETTING_ALARM_GUIDE_SITE": "알림을 받기 원하시는 모든 점포를 선택해주세요.\n",
+	"SETTING_DEVICE_ADD": "기기 추가",
 	"SETTING_DEVICE_BUTTON_ADD": "추가",
+	"SETTING_DEVICE_BUTTON_DELETE": "기기 삭제",
+	"SETTING_ENERTALK_LIST": "설치 된 기기 목록",
+	"SETTING_POPUP_REMOVE_DESC": "기기를 삭제 하겠습니까?",
 	"3_tips": "@COMMENT",
 	"TIPS_MENU_NOW": "NOW",
-	"TIPS_TEXT_QNA": "1:1 문의"
+	"TIPS_TEXT_QNA": "1:1 문의",
+	"TIPE_BUTTON_NEXT": "다음"
 }
