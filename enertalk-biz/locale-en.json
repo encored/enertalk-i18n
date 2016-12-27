@@ -36,6 +36,7 @@
 	"INTRO_BUTTON_SIGNUP_COMPLETE": "Agree",
 	"INTRO_BUTTON_CODE_CONFIRM": "Confirm",
 	"INTRO_BUTTON_PASSWORD_RESET": "Reset Password",
+	"INTRO_BUTTON_REQUEST_CODE": "",
 	"INTRO_PLACEHOLDER_EMAIL": "Email",
 	"INTRO_PLACEHOLDER_EMAIL_CONFIRM": "Confirm Email",
 	"INTRO_PLACEHOLDER_PARENT_EMAIL": "Approver Email",
@@ -344,8 +345,13 @@
 	"SETTING_SAVE_FAILED": "Changes failed. If repeat, please contact the Customer Service Center.",
 	"SETTING_MENU_TITLE_ALARM_SITE": "Select a specific store",
 	"SETTING_ALARM_GUIDE_SITE": "Only 1 store out of multiple stores is accepted to get push notifications.",
+	"SETTING_DEVICE_ADD": "",
 	"SETTING_DEVICE_BUTTON_ADD": "",
+	"SETTING_DEVICE_BUTTON_DELETE": "",
+	"SETTING_ENERTALK_LIST": "",
+	"SETTING_POPUP_REMOVE_DESC": "",
 	"3_tips": "@COMMENT",
 	"TIPS_MENU_NOW": "NOW",
-	"TIPS_TEXT_QNA": "Contact Us"
+	"TIPS_TEXT_QNA": "Contact Us",
+	"TIPE_BUTTON_NEXT": ""
 }
