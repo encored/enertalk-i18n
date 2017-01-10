@@ -364,7 +364,7 @@
 	"SETTING_BILLING_METERDATE_OPTION": "{{date}}日",
 	"SETTING_BILLING_METERDATE": "検針日",
 	"SETTING_BILLING_METERDATE_LAST": "末日",
-	"SETTING_STORE_BUTTON_DELETE": "サイト削除",
+	"SETTING_STORE_BUTTON_DELETE": "サイトを削除",
 	"SETTING_STORE_DELETE_DESC": "サイトを本当に削除しますか？",
 	"SETTING_NOT_NUMBER": "数字のみ入力できます。",
 	"SETTING_UP_NUBER": "{{number}} 以上の値を入力してください",
