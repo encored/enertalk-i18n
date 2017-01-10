@@ -364,7 +364,7 @@
 	"SETTING_BILLING_METERDATE_OPTION": "{{date}}day(s)",
 	"SETTING_BILLING_METERDATE": "Metering day",
 	"SETTING_BILLING_METERDATE_LAST": "End of month",
-	"SETTING_STORE_BUTTON_DELETE": "Please enter site details.",
+	"SETTING_STORE_BUTTON_DELETE": "Remove site",
 	"SETTING_STORE_DELETE_DESC": "Are you sure you want to delete the site?",
 	"SETTING_NOT_NUMBER": "Only numbers are allowed.",
 	"SETTING_UP_NUBER": "Please type larger value than {{number}}",

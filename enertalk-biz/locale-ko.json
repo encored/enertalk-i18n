@@ -364,7 +364,7 @@
 	"SETTING_BILLING_METERDATE_OPTION": "{{date}}일",
 	"SETTING_BILLING_METERDATE": "검침일",
 	"SETTING_BILLING_METERDATE_LAST": "말일",
-	"SETTING_STORE_BUTTON_DELETE": "사이트 정보를 입력 해 주세요.",
+	"SETTING_STORE_BUTTON_DELETE": "사이트 삭제",
 	"SETTING_STORE_DELETE_DESC": "사이트를 삭제 하시겠습니까?",
 	"SETTING_NOT_NUMBER": "숫자만 입력 가능 합니다.",
 	"SETTING_UP_NUBER": "{{number}} 이상의 값을 입력 해 주세요.",
