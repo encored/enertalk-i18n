@@ -128,6 +128,7 @@
 	"APP_BUTTON_CLOSE": "閉じる",
 	"APP_BUTTON_VIEW_TIP": "使い方をチェック",
 	"MAIN_TEXT_TITLE": "エネトーク",
+	"MAIN_NO_DEVICE": "インストールされた機器がありません。<br>機器のインストールページに移動しますか？",
 	"MAIN_BUTTON_EXIT": "終了",
 	"MAIN_TEXT_ALARM": "現在の月間契約電力に比べ {{rate}}% 使用中",
 	"NOW_TEXT_TITLE": "NOW",
@@ -150,6 +151,7 @@
 	"DASHBOARD_COMPARISON_LEVEL_4": "節約できます!",
 	"DASHBOARD_COMPARISON_LEVEL_5": "一緒に節約しましょう!",
 	"TAG_DESC_NO_TAG": "設備別に使用量を確認するためにはエネトークを追加する必要があります。",
+	"TAG_DESC_NO_TAG_GUIDE": "設定>重要設備マネージャーで重要設備名を入力してください。",
 	"TAG_REALTIME_TITLE": "リアルタイム",
 	"TAG_MONTHLY_TITLE": "月間使用量",
 	"2_setting": "@COMMENT",
@@ -412,5 +414,11 @@
 	"3_tips": "@COMMENT",
 	"TIPS_MENU_NOW": "NOW",
 	"TIPS_TEXT_QNA": "1:1お問い合わせ",
-	"TIPS_BUTTON_NEXT": "次へ"
+	"TIPS_BUTTON_NEXT": "次へ",
+	"CODE_mandatoryUpdateMessage": "新しい更新が確認されました。",
+	"CODE_mandatoryContinueButtonLabel": "継続",
+	"CODE_optionalIgnoreButtonLabel": "無視",
+	"CODE_optionalInstallButtonLabel": "インストール",
+	"CODE_optionalUpdateMessage": "新しい更新を利用することができます。\\ n続行しますか？",
+	"CODE_updateTitle": "アップデート"
 }

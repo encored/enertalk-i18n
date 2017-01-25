@@ -128,6 +128,7 @@
 	"APP_BUTTON_CLOSE": "닫기",
 	"APP_BUTTON_VIEW_TIP": "이용 팁 보기",
 	"MAIN_TEXT_TITLE": "EnerTalk",
+	"MAIN_NO_DEVICE": "설치 된 기기가 없습니다.<br>기기 설치 페이지로 이동 하시겠습니까?",
 	"MAIN_BUTTON_EXIT": "종료",
 	"MAIN_TEXT_ALARM": "현재 월간 계약전력 대비 {{rate}}% 사용중",
 	"NOW_TEXT_TITLE": "NOW",
@@ -150,6 +151,7 @@
 	"DASHBOARD_COMPARISON_LEVEL_4": "아낄 수 있어요!",
 	"DASHBOARD_COMPARISON_LEVEL_5": "함께 절약해요!",
 	"TAG_DESC_NO_TAG": "개별 설비의 사용량을 확인하시려면, 에너톡 기기 또는 측정 센서를 추가로 설치해야 합니다.",
+	"TAG_DESC_NO_TAG_GUIDE": "설정 > 중요 설비 매니저에서 중요 설비명을 입력 해 주세요.",
 	"TAG_REALTIME_TITLE": "실시간 사용량",
 	"TAG_MONTHLY_TITLE": "월간 사용량",
 	"2_setting": "@COMMENT",
@@ -412,5 +414,11 @@
 	"3_tips": "@COMMENT",
 	"TIPS_MENU_NOW": "NOW",
 	"TIPS_TEXT_QNA": "1:1 문의",
-	"TIPS_BUTTON_NEXT": "다음"
+	"TIPS_BUTTON_NEXT": "다음",
+	"CODE_mandatoryUpdateMessage": "새로운 업데이트가 확인 되었습니다.",
+	"CODE_mandatoryContinueButtonLabel": "계속",
+	"CODE_optionalIgnoreButtonLabel": "무시",
+	"CODE_optionalInstallButtonLabel": "설치",
+	"CODE_optionalUpdateMessage": "새로운 업데이트를 이용할 수 있습니다.\\n계속 진행 하시겠습니까?",
+	"CODE_updateTitle": "업데이트"
 }
