@@ -55,7 +55,9 @@
 		"TEXT_BILL_FOUNDATION": "전력산업기반기금",
 		"TEXT_BILL_EXCLUDE_GUIDE": "공동 전기료, TV 수신료 등은 포함되어 있지 않습니다.",
 		"TEXT_BILL_EXCLUDE_GUIDE_JP1": "・연료비 조정액, 재생 가능 에너지 발전촉진 부과금은 포함되어 있지 않습니다.",
-		"TEXT_BILL_EXCLUDE_GUIDE_JP2": "・본 어플에서 표시하는 요금은 참고 요금입니다. 청구되는 전기 요금과 일치하지 않을 수 있습니다."
+		"TEXT_BILL_EXCLUDE_GUIDE_JP2": "・본 어플에서 표시하는 요금은 참고 요금입니다. 청구되는 전기 요금과 일치하지 않을 수 있습니다.",
+		"TEXT_USAGE_BILL_GUIDE": "위 그래프는 실제 사용한 전기량과 그에 따른 전력량 요금만 표시합니다.",
+		"TEXT_NUMBER_RATE": "{{rate}}배"
 	},
 	"en": {
 		"TEXT_TOTAL": "Yearly Total",
@@ -113,7 +115,9 @@
 		"TEXT_BILL_FOUNDATION": "Electricity Fund",
 		"TEXT_BILL_EXCLUDE_GUIDE": "*Public utility, TV reception fees are excluded.",
 		"TEXT_BILL_EXCLUDE_GUIDE_JP1": "・Fuel adjustment charge, the renewable energy surcharge are excluded.",
-		"TEXT_BILL_EXCLUDE_GUIDE_JP2": "・Rates are displayed in this application is a reference rate. It may not match the electricity tariff charged."
+		"TEXT_BILL_EXCLUDE_GUIDE_JP2": "・Rates are displayed in this application is a reference rate. It may not match the electricity tariff charged.",
+		"TEXT_USAGE_BILL_GUIDE": "This graph above displays the actual amount of electricity usage and price.",
+		"TEXT_NUMBER_RATE": "Rate x {{multiple}}"
 	},
 	"ja": {
 		"TEXT_TOTAL": "今年の総計",
@@ -171,6 +175,8 @@
 		"TEXT_BILL_FOUNDATION": "電力産業基盤基金",
 		"TEXT_BILL_EXCLUDE_GUIDE": "共同電気料金、TV受信料などは含まれていません。",
 		"TEXT_BILL_EXCLUDE_GUIDE_JP1": "・燃料費調整額、再生可能エネルギー発電促進賦課金は含まれていません。",
-		"TEXT_BILL_EXCLUDE_GUIDE_JP2": "・本アプリで表示する料金は参考料金です。 請求される電気料金とは一致しない場合がございます。"
+		"TEXT_BILL_EXCLUDE_GUIDE_JP2": "・本アプリで表示する料金は参考料金です。 請求される電気料金とは一致しない場合がございます。",
+		"TEXT_USAGE_BILL_GUIDE": "上記のグラフは実際に使用した電気量とそれに伴う電力量料金のみを表示します。",
+		"TEXT_NUMBER_RATE": "{{multiple}}倍"
 	}
 }
