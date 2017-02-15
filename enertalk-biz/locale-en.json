@@ -311,8 +311,8 @@
 	"INSTALL_DEVICE_TYPE_5": "Multi-Channel (Single Phase 2 Wires)",
 	"INSTALL_DEVICE_TYPE_6": "Plug",
 	"INSTALL_DEVICE_PURPOSE_1": "Total",
-	"INSTALL_DEVICE_PURPOSE_2": "Device usage",
-	"INSTALL_DEVICE_PURPOSE_3": "Sunlight",
+	"INSTALL_DEVICE_PURPOSE_2": "Appliance usage",
+	"INSTALL_DEVICE_PURPOSE_3": "Solar",
 	"INSTALL_DEVICE_PERIOD": "{{value}}second(s)",
 	"INSTALL_DEVICE_SITE": "Installed location(Site)",
 	"INSTALL_DEVICE_DEVICE": "Device",
@@ -419,6 +419,7 @@
 	"CODE_mandatoryContinueButtonLabel": "Continue",
 	"CODE_optionalIgnoreButtonLabel": "Ignore",
 	"CODE_optionalInstallButtonLabel": "Install",
-	"CODE_optionalUpdateMessage": "An update is available. \\n Would you like to install it?",
-	"CODE_updateTitle": "Update available"
+	"CODE_optionalUpdateMessage": "An update is available.\nWould you like to install it?",
+	"CODE_updateTitle": "Update available",
+	"CODE_updateComplete": "The update is complete. After a while, the app will restart."
 }
