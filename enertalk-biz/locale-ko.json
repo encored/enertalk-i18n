@@ -419,6 +419,7 @@
 	"CODE_mandatoryContinueButtonLabel": "계속",
 	"CODE_optionalIgnoreButtonLabel": "무시",
 	"CODE_optionalInstallButtonLabel": "설치",
-	"CODE_optionalUpdateMessage": "새로운 업데이트를 이용할 수 있습니다.\\n계속 진행 하시겠습니까?",
-	"CODE_updateTitle": "업데이트"
+	"CODE_optionalUpdateMessage": "새로운 업데이트를 이용할 수 있습니다.\n계속 진행 하시겠습니까?",
+	"CODE_updateTitle": "업데이트",
+	"CODE_updateComplete": "업데이트가 완료 되었습니다. 잠시후 앱이 재시작 됩니다."
 }
