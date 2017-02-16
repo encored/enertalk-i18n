@@ -107,7 +107,7 @@
 	"INTRO_INVITE_WELCOME": "Welcom.",
 	"INTRO_INVITE_TEAM": "<span class=\"team-name\">{{team}}</span><br>invited you to EnerTalk.",
 	"INTRO_INVITE_DESC": "Talking with EnerTalk about energy <br>\nYou can learn, how to save the Earth.<br>\nShall we start?",
-	"INTRO_INVITE_NO_SITE": "You are not invited from any site. <br>\nPush notification will be sent once you get an invitation.",
+	"INTRO_INVITE_NO_SITE": "You are not invited from any site. <br>\nOnce you receive the invitation, you will be automatically connected when you rerun the app.",
 	"INTRO_INSTALL_DESC1": "Talking with EnerTalk about energy <br>\nYou can learn, how to save the Earth.",
 	"INTRO_INSTALL_DESC2": "Have you successfully installed device in the distribution board?<br>\nPlease press next to enter Site and device information.",
 	"INTRO_VIEW_TITLE_SITE": "Enter New Site",
