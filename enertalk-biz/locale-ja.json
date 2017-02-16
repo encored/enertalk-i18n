@@ -107,7 +107,7 @@
 	"INTRO_INVITE_WELCOME": "ようこそ！エネトークへ",
 	"INTRO_INVITE_TEAM": "<span class=\"team-name\">{{team}}</span>から<br>エネトークへ招待されました。",
 	"INTRO_INVITE_DESC": "エネトークでエネルギーみると<br>\n地球にやさしい生活ができます。<br>\nでは、始めましょう！",
-	"INTRO_INVITE_NO_SITE": "まだ他のサイトから招待されていません。<br>\n招待された場合、プッシュメッセージでお知らせします。",
+	"INTRO_INVITE_NO_SITE": "まだ他のサイトから招待されていません。<br>\n招待を受けた後、アプリを再実行すると、自動的にリンクされます。",
 	"INTRO_INSTALL_DESC1": "エネトークでエネルギーみると<br>\n地球にやさしい生活ができます。",
 	"INTRO_INSTALL_DESC2": "分電盤内の機器設置が全て済みましたか？<br>\nサイトと機器情報の入力のため、「次へ」を押してください。",
 	"INTRO_VIEW_TITLE_SITE": "新規サイトの入力",
