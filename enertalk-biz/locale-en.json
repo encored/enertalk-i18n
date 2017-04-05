@@ -338,6 +338,8 @@
 	"INSTALL_DEVICE_TIME_MINUTE": "{{value}}minute(s)",
 	"INSTALL_DEVICE_TIME_SECONDS": "{{value}}second(s)",
 	"INSTALL_DEVICE_NO_DEVICE": "No installed device.",
+	"INSTALL_DEVICE_GUIDE_CT": "Please select channel to set {{value}}A.",
+	"INSTALL_DEVICE_NO_CHANNEL": "There are no configurable channels.",
 	"SETTING_TAG_POPUP_WARNING_1": "Your previous data can be deleted if you change. Would you like to continue?",
 	"SETTING_TAG_SELECT": "Select the use of equipment",
 	"SETTING_TAG_DEVICE_CHANNEL": "Channel",

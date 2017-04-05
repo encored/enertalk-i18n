@@ -338,6 +338,8 @@
 	"INSTALL_DEVICE_TIME_MINUTE": "{{value}}分",
 	"INSTALL_DEVICE_TIME_SECONDS": "{{value}}秒",
 	"INSTALL_DEVICE_NO_DEVICE": "設置された機器がありません。",
+	"INSTALL_DEVICE_GUIDE_CT": "{{value}} Aに設定するチャンネルを選択してください。",
+	"INSTALL_DEVICE_NO_CHANNEL": "設定可能なチャンネルがありません。",
 	"SETTING_TAG_POPUP_WARNING_1": "用途を変更すると、既存のデータが削除されることがあります。続行しますか？",
 	"SETTING_TAG_SELECT": "用途を選択してください。",
 	"SETTING_TAG_DEVICE_CHANNEL": "チャンネル",
