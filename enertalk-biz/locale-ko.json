@@ -338,6 +338,8 @@
 	"INSTALL_DEVICE_TIME_MINUTE": "{{value}}분",
 	"INSTALL_DEVICE_TIME_SECONDS": "{{value}}초",
 	"INSTALL_DEVICE_NO_DEVICE": "설치된 기기가 없습니다.",
+	"INSTALL_DEVICE_GUIDE_CT": "{{value}}A로 설정할 채널을 선택 해 주세요.",
+	"INSTALL_DEVICE_NO_CHANNEL": "설정 가능한 채널이 없습니다.",
 	"SETTING_TAG_POPUP_WARNING_1": "용도를 변경하시면 기존의 데이터가 삭제될 수 있습니다. 계속 하시겠습니까?",
 	"SETTING_TAG_SELECT": "용도를 선택해주세요.",
 	"SETTING_TAG_DEVICE_CHANNEL": "채널",
