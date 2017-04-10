@@ -1050,6 +1050,7 @@
 	"COMMON_DATE_TODAY": "Today",
 	"COMMON_DATE_TOMORROW": "Tomorrow",
 	"COMMON_DATE_CUSTOM_YEAR": "",
+	"COMMON_DATE_CUSTOM_BEFORE": "before {{month}}",
 	"COMMON_NAV_BAR_CANCEL": "Cancel",
 	"CONFIRM_POPUP_DELETE_TITLE": "Are you sure you want to delete?",
 	"CONFIRM_POPUP_CANCEL_TITLE": "Are you sure you want to cancel?",

@@ -1050,6 +1050,7 @@
 	"COMMON_DATE_TODAY": "오늘",
 	"COMMON_DATE_TOMORROW": "내일",
 	"COMMON_DATE_CUSTOM_YEAR": "{{year}}년",
+	"COMMON_DATE_CUSTOM_BEFORE": "{{month}}전",
 	"COMMON_NAV_BAR_CANCEL": "취소",
 	"CONFIRM_POPUP_DELETE_TITLE": "정말 삭제하시겠습니까?",
 	"CONFIRM_POPUP_CANCEL_TITLE": "정말 취소하시겠습니까?",
