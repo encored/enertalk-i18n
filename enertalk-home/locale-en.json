@@ -991,6 +991,8 @@
 	"AN_LIST_TITLE": "Estimating Appliance",
 	"AN_LIST_GUIDE": "Estimating Appliance Guide",
 	"AN_LIST_NILM_GUIDE": "Estimating Appliance NILM Guide",
+	"AN_TOOLTIP_COOKER": "",
+	"AN_TOOLTIP_WASHER": "",
 	"AN_TOOLTIP_REFRIGERATOR": "",
 	"AN_TOOLTIP_HEATING": "",
 	"AN_DETAIL_EFFICIENCY_NEED_MEASURE": "",
