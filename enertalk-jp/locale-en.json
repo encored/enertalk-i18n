@@ -145,6 +145,7 @@
 	"There's no messages yet": "There's no messages yet",
 	"Load More": "Load More",
 	"days ago": "days ago",
+	"Input": "Input",
 	"Select": "Select",
 	"Site Profile": "Site Profile",
 	"Site Name": "Name",
@@ -174,7 +175,7 @@
 	"Contract": "Contract",
 	"Own": "Own",
 	"Rent": "Rent",
-	"Size": "Size",
+	"Residential Size": "Size",
 	"Size Unit": "㎡",
 	"Adult": "Adult",
 	"Child": "Child",
@@ -191,6 +192,7 @@
 	"Add hours": "Add hours",
 	"Day of Week": "Day of Week",
 	"Time": "Time",
+	"Commercial Size": "Size",
 	"Billing Plan": "Billing Plan",
 	"Electric power company": "Electric power company",
 	"Rates": "Rates",
@@ -256,5 +258,10 @@
 	"Current Password": "Current Password",
 	"New Password": "New Password",
 	"Auth": "Auth",
-	"Show": "Show"
+	"Show": "Show",
+	"Hide": "",
+	"New password confirm": "",
+	"Invalid password": "",
+	"Invalid email format": "",
+	"Send verification code": ""
 }
