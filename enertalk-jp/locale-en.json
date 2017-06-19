@@ -73,7 +73,7 @@
 	"U.S.A": "U.S.A",
 	"Korea": "Korea",
 	"Japan": "Japan",
-	"Gas water heater": "Gas hot water system",
+	"Gas hot water system": "Gas hot water system",
 	"Eco Cute": "Eco Cute",
 	"Ene-Farm/Ecowill": "Ene-Farm/Ecowill",
 	"Electric water heater": "Electric water heater",
@@ -259,9 +259,9 @@
 	"New Password": "New Password",
 	"Auth": "Auth",
 	"Show": "Show",
-	"Hide": "",
-	"New password confirm": "",
-	"Invalid password": "",
-	"Invalid email format": "",
-	"Send verification code": ""
+	"Hide": "Hide",
+	"New password confirm": "New password confirm",
+	"Invalid password": "Invalid password",
+	"Invalid email format": "Invalid email format",
+	"Send verification code": "Send verification code"
 }
