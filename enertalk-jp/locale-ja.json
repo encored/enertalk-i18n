@@ -208,6 +208,7 @@
 	"Are you sure you want to remove selected members?": "選択したユーザーを削除しますか？",
 	"Added member": "ユーザーが追加されました。",
 	"Removed member": "ユーザーが削除されました。",
+	"This account is registered": "すでに登録されているユーザーです。",
 	"Device/Appliances Settings": "機器及び家電管理",
 	"Device/Facility Settings": "機器及び設備管理",
 	"Device": "機器",
