@@ -32,6 +32,7 @@
 	"Washing Machine": "洗濯機",
 	"TV": "テレビ",
 	"Air Conditioner": "エアコン",
+	"Always On": "待機電力",
 	"Refrigerator": "冷蔵庫",
 	"Etc": "その他",
 	"CASH_UNIT_VALUE": "{{value}}円",

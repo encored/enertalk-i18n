@@ -32,6 +32,7 @@
 	"Washing Machine": "세탁기",
 	"TV": "TV",
 	"Air Conditioner": "에어컨",
+	"Always On": "대기전력",
 	"Refrigerator": "냉장고",
 	"Etc": "기타",
 	"CASH_UNIT_VALUE": "{{value}}원",
