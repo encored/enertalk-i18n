@@ -32,6 +32,7 @@
 	"Washing Machine": "Washing machine",
 	"TV": "TV",
 	"Air Conditioner": "Air conditioner",
+	"Always On": "Standby power",
 	"Refrigerator": "Fridge",
 	"Etc": "Etc",
 	"CASH_UNIT_VALUE": "${{value}}",
