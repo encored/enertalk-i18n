@@ -1,1 +1,23 @@
-{}
+{
+	"CASH_UNIT": "$",
+	"Sign in": "Sign in",
+	"Continue as a Guest": "Continue as a Guest",
+	"Create an account": "Create an account",
+	"PREFIX_STEP_1": "It is progressive",
+	"STAGE_STEP_1": "Stage 1.",
+	"SUFFIX_STEP_1": "",
+	"PREFIX_STEP_2": "Progression has entered the",
+	"STAGE_STEP_2": "Stage 2.",
+	"SUFFIX_STEP_2": "",
+	"PREFIX_STEP_3": "Progression has entered the",
+	"STAGE_STEP_3": "Stage 2.",
+	"SUFFIX_STEP_3": "",
+	"Compare by last month": "Compare by last month",
+	"Forecast": "Forecast",
+	"Compare by neighbors": "Compare by neighbors",
+	"Forecast in today": "Forecast in today",
+	"Compare by yesterday": "Compare by yesterday",
+	"Average": "Average",
+	"Max date": "Max date",
+	"Min date": "Min date"
+}

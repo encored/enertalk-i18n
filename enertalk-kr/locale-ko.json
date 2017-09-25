@@ -1,1 +1,23 @@
-{}
+{
+	"CASH_UNIT": "₩",
+	"Sign in": "로그인",
+	"Continue as a Guest": "게스트 로그인",
+	"Create an account": "계정 만들기",
+	"PREFIX_STEP_1": "현재",
+	"STAGE_STEP_1": "누진 1단계",
+	"SUFFIX_STEP_1": "입니다.",
+	"PREFIX_STEP_2": "",
+	"STAGE_STEP_2": "누진 2단계",
+	"SUFFIX_STEP_2": "로 진입했습니다.",
+	"PREFIX_STEP_3": "",
+	"STAGE_STEP_3": "누진 3단계",
+	"SUFFIX_STEP_3": "로 진입했습니다.",
+	"Compare by last month": "지난달 대비",
+	"Forecast": "예상 사용량",
+	"Compare by neighbors": "이웃 비교",
+	"Forecast in today": "오늘 예상",
+	"Compare by yesterday": "전날 대비",
+	"Average": "평균 사용량",
+	"Max date": "최고 사용일",
+	"Min date": "최저 사용일"
+}
