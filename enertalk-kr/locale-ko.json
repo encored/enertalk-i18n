@@ -19,5 +19,6 @@
 	"Compare by yesterday": "전날 대비",
 	"Average": "평균 사용량",
 	"Max date": "최고 사용일",
-	"Min date": "최저 사용일"
+	"Min date": "최저 사용일",
+	"When you touch the amount, convert to kWh.": "액수를 터치 시 kWh로 변환합니다."
 }
