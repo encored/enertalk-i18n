@@ -3,6 +3,7 @@
 	"Sign in": "Sign in",
 	"Continue as a Guest": "Continue as a Guest",
 	"Create an account": "Create an account",
+	"Go Back": "Go Back",
 	"PREFIX_STEP_1": "It is progressive\\n",
 	"STAGE_STEP_1": "Stage 1.",
 	"SUFFIX_STEP_1": "",
@@ -20,5 +21,17 @@
 	"Average": "Average",
 	"Max date": "Max date",
 	"Min date": "Min date",
-	"When you touch the amount, convert to kWh.": "When you touch the amount, convert to kWh."
+	"When you touch the amount, convert to kWh.": "When you touch the amount, convert to kWh.",
+	"Total power generation": "Total power generation",
+	"This month we saved": "This month we saved",
+	"by solar.": "by solar.",
+	"1st": "1st",
+	"2nd": "2rd",
+	"3rd": "3rd",
+	"OTHER_RANK": "{value}th",
+	"This month": "This month",
+	"Today": "Today",
+	"Power generation": "Power generation",
+	"Last month": "Last month",
+	"Yesterday": "Yesterday"
 }
