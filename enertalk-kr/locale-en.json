@@ -32,6 +32,10 @@
 	"This month": "This month",
 	"Today": "Today",
 	"Power generation": "Power generation",
+	"Power generation amount": "Power generation",
 	"Last month": "Last month",
-	"Yesterday": "Yesterday"
+	"Yesterday": "Yesterday",
+	"Offset": "Offset",
+	"Comparison by Total": "Comparison by Total",
+	"before hours": "{value} hours a go"
 }

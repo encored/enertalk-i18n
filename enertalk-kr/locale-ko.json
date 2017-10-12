@@ -32,6 +32,10 @@
 	"This month": "이번달",
 	"Today": "오늘",
 	"Power generation": "발전 금액",
+	"Power generation amount": "발전량",
 	"Last month": "지난달",
-	"Yesterday": "어제"
+	"Yesterday": "어제",
+	"Offset": "소비량",
+	"Comparison by Total": "총액 대비",
+	"before hours": "{value}시간 전"
 }
