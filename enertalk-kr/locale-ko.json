@@ -4,6 +4,8 @@
 	"Continue as a Guest": "게스트 로그인",
 	"Create an account": "계정 만들기",
 	"Go Back": "돌아가기",
+	"Confirm": "확인",
+	"Cancel": "취소",
 	"PREFIX_STEP_1": "현재",
 	"STAGE_STEP_1": "누진 1단계",
 	"SUFFIX_STEP_1": "입니다.",
@@ -41,5 +43,6 @@
 	"before hours": "{{value}}시간 전",
 	"Show more": "더보기",
 	"Sign out": "로그아웃",
-	"Version": "버전"
+	"Version": "버전",
+	"Are you sure you want to sign out?": "로그아웃 하시겠습니까?"
 }

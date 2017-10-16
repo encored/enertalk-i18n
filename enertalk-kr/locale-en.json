@@ -4,6 +4,8 @@
 	"Continue as a Guest": "Continue as a Guest",
 	"Create an account": "Create an account",
 	"Go Back": "Go Back",
+	"Confirm": "Confirm",
+	"Cancel": "Cancel",
 	"PREFIX_STEP_1": "It is progressive\\n",
 	"STAGE_STEP_1": "Stage 1.",
 	"SUFFIX_STEP_1": "",
@@ -41,5 +43,6 @@
 	"before hours": "{{value}} hours a go",
 	"Show more": "Show more",
 	"Sign out": "Sign out",
-	"Version": "Version"
+	"Version": "Version",
+	"Are you sure you want to sign out?": "Are you sure you want to sign out?"
 }
