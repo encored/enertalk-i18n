@@ -22,13 +22,14 @@
 	"Max date": "최고 사용일",
 	"Min date": "최저 사용일",
 	"When you touch the amount, convert to kWh.": "액수를 터치 시 kWh로 변환합니다.",
+	"The amount used by household appliances this month is": "이번달 가전별 사용 금액은",
 	"Total power generation": "총 발전 금액",
 	"This month we saved": "이번달 태양광으로",
 	"by solar.": "절약했습니다.",
 	"1st": "1위",
 	"2nd": "2위",
 	"3rd": "3위",
-	"OTHER_RANK": "{value}위",
+	"OTHER_RANK": "{{value}}위",
 	"This month": "이번달",
 	"Today": "오늘",
 	"Power generation": "발전 금액",
@@ -37,5 +38,6 @@
 	"Yesterday": "어제",
 	"Offset": "소비량",
 	"Comparison by Total": "총액 대비",
-	"before hours": "{value}시간 전"
+	"before hours": "{{value}}시간 전",
+	"Show more": "더보기"
 }
