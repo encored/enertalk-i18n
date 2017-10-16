@@ -39,5 +39,7 @@
 	"Offset": "소비량",
 	"Comparison by Total": "총액 대비",
 	"before hours": "{{value}}시간 전",
-	"Show more": "더보기"
+	"Show more": "더보기",
+	"Sign out": "로그아웃",
+	"Version": "버전"
 }
