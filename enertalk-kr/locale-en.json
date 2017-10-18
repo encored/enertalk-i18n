@@ -48,7 +48,12 @@
 	"Rate Plan": "Rate Plan",
 	"Site Share": "Site Share",
 	"Device & Appliance": "Device & Appliance",
+	"User Info": "User Info",
+	"Push Setting": "Push Setting",
 	"Sign out": "Sign out",
 	"Version": "Version",
-	"Are you sure you want to sign out?": "Are you sure you want to sign out?"
+	"Are you sure you want to sign out?": "Are you sure you want to sign out?",
+	"Site Setting": "",
+	"User Setting": "",
+	"App Setting": ""
 }

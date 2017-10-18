@@ -48,7 +48,12 @@
 	"Rate Plan": "요금제",
 	"Site Share": "사이트 공유",
 	"Device & Appliance": "기기 및 가전 설정",
+	"User Info": "사용자 정보",
+	"Push Setting": "알림 설정",
 	"Sign out": "로그아웃",
 	"Version": "버전",
-	"Are you sure you want to sign out?": "로그아웃 하시겠습니까?"
+	"Are you sure you want to sign out?": "로그아웃 하시겠습니까?",
+	"Site Setting": "사이트 설정",
+	"User Setting": "사용자 설정",
+	"App Setting": "앱 설정"
 }
