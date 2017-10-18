@@ -16,7 +16,8 @@
 	"PREFIX_STEP_3": "Progression has\\nentered the\\n",
 	"STAGE_STEP_3": "Stage 3.",
 	"SUFFIX_STEP_3": "",
-	"Compare by last month": "Compare by last month",
+	"than last month": "than last month",
+	"than yesterday": "than yesterday",
 	"Forecast": "Forecast",
 	"Compare by neighbors": "Compare by neighbors",
 	"Forecast in today": "Forecast in today",
@@ -53,7 +54,7 @@
 	"Sign out": "Sign out",
 	"Version": "Version",
 	"Are you sure you want to sign out?": "Are you sure you want to sign out?",
-	"Site Setting": "",
-	"User Setting": "",
-	"App Setting": ""
+	"Site Setting": "Site Setting",
+	"User Setting": "User Setting",
+	"App Setting": "App Setting"
 }
