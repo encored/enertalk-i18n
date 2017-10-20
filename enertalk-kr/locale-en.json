@@ -44,6 +44,7 @@
 	"Comparison by Total": "Comparison by Total",
 	"before hours": "{{value}} hours a go",
 	"Show more": "Show more",
+	"Setting": "Setting",
 	"Site Profile": "Site Profile",
 	"Basic Info": "Basic Info",
 	"Rate Plan": "Rate Plan",
@@ -56,5 +57,16 @@
 	"Are you sure you want to sign out?": "Are you sure you want to sign out?",
 	"Site Setting": "Site Setting",
 	"User Setting": "User Setting",
-	"App Setting": "App Setting"
+	"App Setting": "App Setting",
+	"Add Site": "Add Site",
+	"Name": "Name",
+	"Country": "Country",
+	"Timezone": "Timezone",
+	"Address": "Address",
+	"Type": "Type",
+	"Delete SIte": "Delete Site",
+	"Current Location": "Current Location",
+	"Result": "Result",
+	"MESSAGE_REMOVE_SITE": "Your previous data will be permanently erased and cannot be restored. Are you sure you want to delete?",
+	"Change the settings": "Change the settings"
 }
