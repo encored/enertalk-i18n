@@ -43,7 +43,7 @@
 	"Last month": "Last month",
 	"Yesterday": "Yesterday",
 	"Offset": "Offset",
-	"Comparison by Total": "Comparison by Total",
+	"Comparison by Total": "By Total",
 	"before hours": "{{value}} hours a go",
 	"Show more": "Show more",
 	"Setting": "Setting",
@@ -70,5 +70,14 @@
 	"Current Location": "Current Location",
 	"Result": "Result",
 	"MESSAGE_REMOVE_SITE": "Your previous data will be permanently erased and cannot be restored. Are you sure you want to delete?",
-	"Change the settings": "Change the settings"
+	"Change the settings": "Change the settings",
+	"Input": "Input",
+	"Select": "Select",
+	"Save": "Save",
+	"Saved": "Saved",
+	"Deleted": "Deleted",
+	"You have unselected items.": "You have unselected items.",
+	"KR": "Republic of Korea",
+	"JP": "Japan",
+	"US": "U.S.A"
 }

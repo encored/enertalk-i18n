@@ -70,5 +70,14 @@
 	"Current Location": "내 위치",
 	"Result": "검색 결과",
 	"MESSAGE_REMOVE_SITE": "사이트를 삭제하시면 지금까지 사용하신 데이터가 모두 사라지며, 삭제 된 데이터는 복구는 불가합니다.\n정말 삭제하시겠습니까?",
-	"Change the settings": "변경된 사항 저장하기"
+	"Change the settings": "변경된 사항 저장하기",
+	"Input": "입력",
+	"Select": "선택",
+	"Save": "저장",
+	"Saved": "저장 되었습니다.",
+	"Deleted": "삭제 되었습니다.",
+	"You have unselected items.": "선택 되지 않은 항목이 있습니다.",
+	"KR": "한국",
+	"JP": "일본",
+	"US": "미국"
 }
