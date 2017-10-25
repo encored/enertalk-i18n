@@ -77,7 +77,10 @@
 	"Saved": "저장 되었습니다.",
 	"Deleted": "삭제 되었습니다.",
 	"You have unselected items.": "선택 되지 않은 항목이 있습니다.",
-	"KR": "한국",
+	"KR": "대한민국",
 	"JP": "일본",
-	"US": "미국"
+	"US": "미국",
+	"Search": "검색",
+	"Dong, Street name": "예) 논현동, 봉은사로, 봉은사로 215",
+	"Search address": "주소 찾기"
 }
