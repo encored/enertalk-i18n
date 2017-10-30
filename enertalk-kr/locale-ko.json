@@ -18,6 +18,7 @@
 	"SUFFIX_STEP_3": "진입했습니다.",
 	"than last month": "지난 달 대비",
 	"than yesterday": "어제 대비",
+	"than last date": "지난 {{value}} 대비",
 	"This month expected": "이번 달 예상",
 	"Compare by neighbors": "이웃 비교",
 	"Today expected": "오늘 예상",
