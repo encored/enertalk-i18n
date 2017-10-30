@@ -16,7 +16,7 @@
 	"PREFIX_STEP_3": "",
 	"STAGE_STEP_3": "누진 3단계",
 	"SUFFIX_STEP_3": "진입했습니다.",
-	"than last month": "지난달 대비",
+	"than last month": "지난 달 대비",
 	"than yesterday": "어제 대비",
 	"This month expected": "이번 달 예상",
 	"Compare by neighbors": "이웃 비교",
@@ -27,6 +27,13 @@
 	"Lowest": "최저 사용일",
 	"When you touch the amount, convert to kWh.": "액수를 터치 시 kWh로 변환합니다.",
 	"The amount used by household appliances this month is": "이번달 가전별 사용 금액은",
+	"Last week average": "지난 주 평균",
+	"Last month average": "지난 달 평균",
+	"This month generation": "이번 달 발전",
+	"Unusable generation this month": "이번 달 사용하지 못한 발전",
+	"This month total usage": "이번 달 전체 사용",
+	"Today generation expected": "오늘 발전 예상",
+	"This month generation expected": "이번 달 발전 예상",
 	"Total power generation": "총 발전 금액",
 	"This month we saved": "이번달 태양광으로",
 	"by solar.": "절약했습니다.",
@@ -82,5 +89,7 @@
 	"US": "미국",
 	"Search": "검색",
 	"Dong, Street name": "예) 논현동, 봉은사로, 봉은사로 215",
-	"Search address": "주소 찾기"
+	"Search address": "주소 찾기",
+	"Set permissions": "권한 설정",
+	"Please allow location service permissions.": "위치서비스 사용 권한을 허용 해 주세요."
 }
