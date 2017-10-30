@@ -18,6 +18,7 @@
 	"SUFFIX_STEP_3": "",
 	"than last month": "than last month",
 	"than yesterday": "than yesterday",
+	"than last date": "than last {{value}",
 	"This month expected": "This month expected",
 	"Compare by neighbors": "Compare by neighbors",
 	"Today expected": "Today expected",
