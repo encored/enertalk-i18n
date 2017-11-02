@@ -48,7 +48,7 @@
 	"Heavy-duty appliances": "고부하 가전",
 	"Always On": "상시 부하",
 	"Refrigerator": "냉장고",
-	"Estimated usage of household appliances analyzed by Enertalk.": "에너톡이 분석한 가전별 ‘추정’ 사용량 입니다.",
+	"Estimated usage of household appliances analyzed by Enertalk.": "에너톡이 분석한 가전별\n‘추정’ 사용량 입니다.",
 	"Total power generation": "총 발전 금액",
 	"This month we saved": "이번달 태양광으로",
 	"by solar.": "절감 했어요.",
@@ -108,5 +108,7 @@
 	"Dong, Street name": "예) 논현동, 봉은사로, 봉은사로 215",
 	"Search address": "주소 찾기",
 	"Set permissions": "권한 설정",
-	"Please allow location service permissions.": "위치서비스 사용 권한을 허용 해 주세요."
+	"Please allow location service permissions.": "위치서비스 사용 권한을 허용 해 주세요.",
+	"Supplier": "전력사",
+	"Metering day": "검침일"
 }
