@@ -108,5 +108,7 @@
 	"Dong, Street name": "Dong, Street name",
 	"Search address": "Search address",
 	"Set permissions": "Set permissions",
-	"Please allow location service permissions.": "Please allow location service permissions."
+	"Please allow location service permissions.": "Please allow location service permissions.",
+	"Supplier": "Supplier",
+	"Metering day": "Metering day"
 }
