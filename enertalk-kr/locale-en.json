@@ -81,6 +81,8 @@
 	"Sign out": "Sign out",
 	"Version": "Version",
 	"Are you sure you want to sign out?": "Are you sure you want to sign out?",
+	"Are you sure you want to delete?": "Are you sure you want to delete?",
+	"Are you sure you want to save?": "Are you sure you want to save?",
 	"Site Setting": "Site Setting",
 	"User Setting": "User Setting",
 	"App Setting": "App Setting",
@@ -110,5 +112,18 @@
 	"Set permissions": "Set permissions",
 	"Please allow location service permissions.": "Please allow location service permissions.",
 	"Supplier": "Supplier",
-	"Metering day": "Metering day"
+	"Metering day": "Metering day",
+	"Add": "Add",
+	"Delete": "Delete",
+	"Manager": "Manager",
+	"Member": "Member",
+	"Add members to share your data.": "Add members to share your data.",
+	"Email or Mobile": "Email or Mobile",
+	"Search member": "Search member",
+	"This account doesn't exist": "This account doesn't exist",
+	"Remove from group": "Remove from group",
+	"Are you sure you want to remove selected members?": "Are you sure you want to remove selected members?",
+	"Added member": "Added member",
+	"Removed member": "Removed member",
+	"This account is registered": "This account is registered"
 }
