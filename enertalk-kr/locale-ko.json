@@ -81,6 +81,8 @@
 	"Sign out": "로그아웃",
 	"Version": "버전",
 	"Are you sure you want to sign out?": "로그아웃 하시겠습니까?",
+	"Are you sure you want to delete?": "삭제 하시겠습니까?",
+	"Are you sure you want to save?": "저장 하시겠습니까?",
 	"Site Setting": "사이트 설정",
 	"User Setting": "사용자 설정",
 	"App Setting": "앱 설정",
@@ -110,5 +112,18 @@
 	"Set permissions": "권한 설정",
 	"Please allow location service permissions.": "위치서비스 사용 권한을 허용 해 주세요.",
 	"Supplier": "전력사",
-	"Metering day": "검침일"
+	"Metering day": "검침일",
+	"Add": "추가",
+	"Delete": "삭제",
+	"Manager": "소유자",
+	"Member": "멤버(공유하고 있는 유저)",
+	"Add members to share your data.": "에너톡 정보를 함께 볼 멤버를 추가해주세요.",
+	"Email or Mobile": "이메일 또는 휴대폰 번호",
+	"Search member": "멤버 검색",
+	"This account doesn't exist": "가입되지 않은 이메일(휴대폰 번호)입니다.",
+	"Remove from group": "멤버 삭제",
+	"Are you sure you want to remove selected members?": "선택한 멤버를 삭제 하겠습니까?",
+	"Added member": "멤버가 추가 되었습니다.",
+	"Removed member": "멤버가 삭제 되었습니다.",
+	"This account is registered": "이미 등록된 멤버입니다."
 }
