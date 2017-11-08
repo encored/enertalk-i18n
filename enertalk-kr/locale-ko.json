@@ -104,6 +104,7 @@
 	"Input": "입력",
 	"Select": "선택",
 	"Save": "저장",
+	"Change": "변경",
 	"Saved": "저장 되었습니다.",
 	"Deleted": "삭제 되었습니다.",
 	"You have unselected items.": "선택 되지 않은 항목이 있습니다.",
@@ -161,5 +162,9 @@
 	"INSTALL_TYPE_7": "플러그",
 	"Add tag": "설정 없음",
 	"Appliance Name": "가전명",
-	"MESSAGE_DELETE_DEVICE": "기기를 삭제하면 해당 데이터가 모두 삭제되고 복구가 불가능 합니다.\n정말 삭제 하시겠습니까?"
+	"MESSAGE_DELETE_DEVICE": "기기를 삭제하면 해당 데이터가 모두 삭제되고 복구가 불가능 합니다.\n정말 삭제 하시겠습니까?",
+	"Email": "이메일",
+	"Mobile number": "휴대폰 번호",
+	"Password": "비밀번호",
+	"Nickname": "닉네임"
 }
