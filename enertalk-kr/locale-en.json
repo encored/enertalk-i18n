@@ -147,6 +147,7 @@
 	"Installation Types": "Installation Types",
 	"CT Capacity": "CT Capacity",
 	"Frequency": "Frequency",
+	"Channel Count": "Channel Count",
 	"Appliance Monitoring": "Appliance Monitoring",
 	"INSTALL_PURPOSE_1": "Total Usage",
 	"INSTALL_PURPOSE_2": "Main Appliances",
@@ -158,5 +159,7 @@
 	"INSTALL_TYPE_5": "Multi-channel system",
 	"INSTALL_TYPE_6": "Modem",
 	"INSTALL_TYPE_7": "Plug",
-	"Add tag": "Add tag"
+	"Add tag": "Add tag",
+	"Appliance Name": "Appliance Name",
+	"MESSAGE_DELETE_DEVICE": "When you delete a device, all data is deleted and can not be recovered.\nDo you want to delete?"
 }
