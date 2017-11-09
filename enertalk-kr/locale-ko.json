@@ -166,5 +166,19 @@
 	"Email": "이메일",
 	"Mobile number": "휴대폰 번호",
 	"Password": "비밀번호",
-	"Nickname": "닉네임"
+	"Nickname": "닉네임",
+	"Show": "표시",
+	"Hide": "숨김",
+	"New password confirm": "새 비밀번호 확인",
+	"Current Password": "현재 비밀번호",
+	"New Password": "새 비밀번호",
+	"Invalid password": "유효하지 않은 비밀번호가 입력되었습니다.",
+	"Invalid email format": "유효하지 않은 이메일 형식입니다",
+	"Invalid verification code": "인증코드가 일치하지 않습니다.",
+	"Send verification code": "인증코드가 전송되었습니다.",
+	"Auth": "인증",
+	"Enter your email": "이메일을 입력 해 주세요.",
+	"Enter your mobile number": "휴대폰 번호를 입력 해 주세요.",
+	"Enter verification code": "인증 번호를 입력 해 주세요.",
+	"Enter your nicname": "닉네임을 입력 해 주세요."
 }

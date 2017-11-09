@@ -166,5 +166,19 @@
 	"Email": "Email",
 	"Mobile number": "Mobile number",
 	"Password": "Password",
-	"Nickname": "Nickname"
+	"Nickname": "Nickname",
+	"Show": "Show",
+	"Hide": "Hide",
+	"New password confirm": "New password confirm",
+	"Current Password": "Current Password",
+	"New Password": "New Password",
+	"Invalid password": "Invalid password",
+	"Invalid email format": "Invalid email format",
+	"Invalid verification code": "Invalid verification code",
+	"Send verification code": "Send verification code",
+	"Auth": "Auth",
+	"Enter your email": "Enter your email",
+	"Enter your mobile number": "Enter your mobile number",
+	"Enter verification code": "Enter verification code",
+	"Enter your nicname": "Enter your nicname"
 }
