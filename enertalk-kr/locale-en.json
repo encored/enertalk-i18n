@@ -186,5 +186,8 @@
 	"Existing password do not match.": "Existing password do not match.",
 	"New password do not match.": "New password do not match.",
 	"Already registered email.": "Already registered email.",
-	"Already registered moblie number.": "Already registered moblie number."
+	"Already registered moblie number.": "Already registered moblie number.",
+	"Enertalk Notification": "Enertalk Notification",
+	"Receive Notification": "",
+	"By site": "By site"
 }
