@@ -186,5 +186,8 @@
 	"Existing password do not match.": "기존 비밀번호가 일치하지 않습니다.",
 	"New password do not match.": "새 비밀번호가 일치하지 않습니다.",
 	"Already registered email.": "이미 등록 된 이메일 입니다.",
-	"Already registered moblie number.": "이미 등록 된 휴대폰 번호 입니다."
+	"Already registered moblie number.": "이미 등록 된 휴대폰 번호 입니다.",
+	"Enertalk Notification": "에너톡 알림",
+	"Receive Notification": "알림 받기",
+	"By site": "Site 별"
 }
