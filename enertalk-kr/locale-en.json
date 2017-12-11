@@ -26,7 +26,7 @@
 	"MISSION_GUIDE_TITLE_3": "Ranking and level sharing",
 	"MISSION_GUIDE_CONTENT_3": "You can boast get points and level from the mission.",
 	"MANAGE_GUIDE_TITLE": "Equipment and solar management",
-	"MANAGE_GUIDE_CONTENT": "Efficient management is possible through rate calculation and real-time information for each appliance / facility",
+	"MANAGE_GUIDE_CONTENT": "The billing and real-time information for each appliance and facility can increase the efficiency of management and reduce usage and cost",
 	"PREFIX_STEP_1": "It is progressive",
 	"STAGE_STEP_1": "Stage 1",
 	"SUFFIX_STEP_1": "",
@@ -244,5 +244,6 @@
 	"Enertalk Notification": "Enertalk Notification",
 	"Receive Notification": "Receive Notification",
 	"By site": "By site",
-	"Contact Us": "Contact Us"
+	"Contact Us": "Contact Us",
+	"Contact Us2": "Contact Us"
 }
