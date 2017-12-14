@@ -121,6 +121,7 @@
 	"Connection error": "Connection error",
 	"Connection error message": "EnerTalk and Wi-Fi router disconnected,\nmission cancellation",
 	"CT problem message": "Mission In Progress The current measurement sensor (CT) collected abnormal data compared to usual, and mission participation was canceled.",
+	"Within 6 characters": "Within 6 characters",
 	"Setting": "Setting",
 	"Site Profile": "Site Profile",
 	"Basic Info": "Basic Info",

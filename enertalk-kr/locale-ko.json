@@ -121,6 +121,7 @@
 	"Connection error": "연결 오류",
 	"Connection error message": "EnerTalk과 Wi-Fi 공유기의 연결이 \n끊겨 미션 참여가 취소되었습니다",
 	"CT problem message": "미션 진행 중 전류측정센서(CT)가\n평소에 비해 비정상적인 데이터를 수집하여\n미션 참여가 취소되었습니다.",
+	"Within 6 characters": "6자자 이내",
 	"Setting": "설정",
 	"Site Profile": "사이트 프로필",
 	"Basic Info": "기본 정보",
