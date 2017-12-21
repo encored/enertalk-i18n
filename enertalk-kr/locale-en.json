@@ -167,7 +167,7 @@
 	"Setting goal for real mission": "Setting goal for real mission",
 	"Checking the status of Wi-Fi router for join": "Checking the status of Wi-Fi router for join",
 	"Do not turn off the Wi-Fi router during the mission": "Do not turn off the Wi-Fi router during the mission",
-	"Current people": "Currently participating 5 people",
+	"Current people": "Currently participating {{value}} people",
 	"Failure to join the mission": "Failure to join the mission",
 	"Mission participation completed": "Mission participation completed",
 	"Try again": "Try again",
