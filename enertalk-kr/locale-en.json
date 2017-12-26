@@ -187,6 +187,11 @@
 	"Go Apply": "Apply",
 	"Mission Record": "History",
 	"Mission History": "Mission History",
+	"Next Level": "{{exp}} points to {{level}}",
+	"Total number of participation": "Total",
+	"Real count": "Real {{value}} times",
+	"Training count": "Training {{value}} times",
+	"Misson Used": "Used",
 	"Setting": "Setting",
 	"Site Profile": "Site Profile",
 	"Basic Info": "Basic Info",
@@ -318,5 +323,9 @@
 	"Receive Notification": "Receive Notification",
 	"By site": "By site",
 	"Contact Us": "Contact Us",
-	"Contact Us2": "Contact Us"
+	"Contact Us2": "Contact Us",
+	"LEVEL_0": "Bronze 1",
+	"LEVEL_1": "Bronze 2",
+	"LEVEL_2": "Bronze 3",
+	"LEVEL_3": "Bronze 4"
 }

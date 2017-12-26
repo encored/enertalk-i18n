@@ -187,6 +187,11 @@
 	"Go Apply": "신청하기",
 	"Mission Record": "기록",
 	"Mission History": "미션 히스토리",
+	"Next Level": "{{level}}까지 {{exp}}점",
+	"Total number of participation": "총 참여 횟수",
+	"Real count": "실전 {{value}}회",
+	"Training count": "훈련 {{value}}회",
+	"Misson Used": "사용",
 	"Setting": "설정",
 	"Site Profile": "사이트 프로필",
 	"Basic Info": "기본 정보",
@@ -318,5 +323,9 @@
 	"Receive Notification": "알림 받기",
 	"By site": "Site 별",
 	"Contact Us": "1:1 문의",
-	"Contact Us2": "문의하기"
+	"Contact Us2": "문의하기",
+	"LEVEL_0": "브론즈 1",
+	"LEVEL_1": "브론즈 2",
+	"LEVEL_2": "브론즈 3",
+	"LEVEL_3": "브론즈 4"
 }
