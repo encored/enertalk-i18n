@@ -178,6 +178,7 @@
 	"Mission end": "The end",
 	"Mission hint": "Hint",
 	"Remain Wh": "{{value}}Wh left.",
+	"Over Wh": "{{value}}Wh over.",
 	"Possibility reward": "Acquired {{reward}}P when using less than {{usage}} for one hour",
 	"Effort reward": "If you try a little, you get {{reward}}P",
 	"Difficult reward": "Difficulty obtaining {{reward}}P",

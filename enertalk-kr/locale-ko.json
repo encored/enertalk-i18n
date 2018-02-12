@@ -178,6 +178,7 @@
 	"Mission end": "종료",
 	"Mission hint": "힌트",
 	"Remain Wh": "{{value}}Wh 남음",
+	"Over Wh": "{{value}}Wh 초과",
 	"Possibility reward": "1시간 동안 {{usage}}이하 사용 시 {{reward}}P 획득",
 	"Effort reward": "조금만 노력하면 {{reward}}P 획득",
 	"Difficult reward": "{{reward}}P 획득 어려움",
