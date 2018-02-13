@@ -250,6 +250,7 @@
 	"Level Up": "{{level}}레벨에 진입하셨습니다",
 	"Failed Create Mission": "미션 생성 오류",
 	"Occur error mission": "미션 생성 중 오류가 발생 하였습니다.",
+	"Goal exceeded": "목표 사용량 초과",
 	"Setting": "설정",
 	"Site Profile": "사이트 프로필",
 	"Basic Info": "기본 정보",
